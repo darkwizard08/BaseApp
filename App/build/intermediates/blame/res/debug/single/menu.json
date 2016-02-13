@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\DemoApp\\App\\build\\intermediates\\res\\merged\\debug\\menu\\drawer.xml",
+        "source": "C:\\DemoApp\\App\\src\\main\\res\\menu\\drawer.xml"
+    },
+    {
+        "merged": "C:\\DemoApp\\App\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "C:\\DemoApp\\App\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\DemoApp\\App\\build\\intermediates\\res\\merged\\debug\\menu\\global.xml",
+        "source": "C:\\DemoApp\\App\\src\\main\\res\\menu\\global.xml"
+    }
+]

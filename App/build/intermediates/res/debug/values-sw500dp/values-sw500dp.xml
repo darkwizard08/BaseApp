@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/C:/QuizMaker/Test/src/main/res/values-sw500dp/dimens.xml -->
+    <eat-comment/>
+    <dimen name="newest_author_width">100sp</dimen>
+    <integer name="newest_filter_grid_count">3</integer>
+</resources>

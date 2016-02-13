@@ -16,7 +16,7 @@ android {
     buildToolsVersion buildToolsProjectVersion
 
     defaultConfig {
-        applicationId "ru.kazantsev.demoapp"
+        applicationId "ru.kazantsev.baseapp"
         minSdkVersion 14
         targetSdkVersion 23
         versionCode versionProjectCode

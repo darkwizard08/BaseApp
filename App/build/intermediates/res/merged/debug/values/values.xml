@@ -498,7 +498,7 @@
     <string name="app_name">Демо</string>
     <string name="appbar_scrolling_view_behavior" translatable="false">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
     <string name="back">Назад</string>
-    <string name="back_to_exit">Нажмите назад еще раз для выхода</string>
+    <string name="back_to_exit">Нажмите назад для выхода</string>
     <string name="character_counter_pattern" translatable="false">%1$d / %2$d</string>
     <string name="choose_file">Выберите Файл</string>
     <string name="drawer_close">Close navigation drawer</string>

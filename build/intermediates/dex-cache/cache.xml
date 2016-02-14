@@ -1,3 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<items version="2" />
+<items version="2" >
 
+    <item
+        jar="/home/kittn/projects/astudio_projects/BaseApp/App/build/intermediates/transforms/instantRunSlicer/debug/jars/1/1a/dependencies.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ac5fd72d9209d8cf1b1a903a28ba66221e758a63">
+        <dex dex="/home/kittn/projects/astudio_projects/BaseApp/App/build/intermediates/transforms/dex/debug/folders/1000/1a/dependencies_570872f842b6cde740f47c773258817d123994c0/classes.dex" />
+    </item>
+    <item
+        jar="/home/kittn/projects/astudio_projects/BaseApp/App/build/intermediates/transforms/instantRunSlicer/debug/jars/1/5/main_slice.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="9abae3763e57602b1e889a4d35fbd1c28793f642">
+        <dex dex="/home/kittn/projects/astudio_projects/BaseApp/App/build/intermediates/transforms/dex/debug/folders/1000/5/main_slice_068be8ef2f88a3d25354346c69c3b684aef0816f/classes.dex" />
+    </item>
+
+</items>

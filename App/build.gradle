@@ -1,6 +1,6 @@
 apply plugin: 'com.android.application'
-apply plugin: 'com.neenbedankt.android-apt'
 apply plugin: 'me.tatarka.retrolambda'
+apply plugin: 'com.neenbedankt.android-apt'
 
 ext {
 	compileSdkProjectVersion= 23
@@ -61,10 +61,10 @@ android {
 
     sourceSets {
         main {
-            manifest.srcFile '/src/main/AndroidManifest.xml'
-            java.srcDirs = ['/src/main/java', '.apt_generated']
-            aidl.srcDirs = ['/src/main/aidl', '.apt_generated']
-            assets.srcDirs = ['/src/main/assets']
+            manifest.srcFile 'src/main/AndroidManifest.xml'
+            java.srcDirs = ['src/main/java', '.apt_generated']
+            aidl.srcDirs = ['src/main/aidl', '.apt_generated']
+            assets.srcDirs = ['src/main/assets']
             res.srcDirs =
                     [
                             'src/main/res/layouts/activity',
@@ -90,6 +90,7 @@ dependencies {
     apt "com.google.dagger:dagger-compiler:2.0.1"
     apt "com.jakewharton:butterknife:7.0.1"
     provided "org.projectlombok:lombok:1.16.6"
+    provided 'org.glassfish:javax.annotation:10.0-b28'
 	compile "com.android.support:appcompat-v7:$supportLibraryVersion"
     compile "com.android.support:gridlayout-v7:$supportLibraryVersion"
     compile "com.android.support:cardview-v7:$supportLibraryVersion"

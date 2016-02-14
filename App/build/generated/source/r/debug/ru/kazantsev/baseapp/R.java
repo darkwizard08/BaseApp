@@ -3530,11 +3530,11 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #AbsRecyclerViewFastScroller_rfs_barBackground ru.kazantsev.demoapp:rfs_barBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #AbsRecyclerViewFastScroller_rfs_barColor ru.kazantsev.demoapp:rfs_barColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #AbsRecyclerViewFastScroller_rfs_fast_scroller_layout ru.kazantsev.demoapp:rfs_fast_scroller_layout}</code></td><td></td></tr>
-           <tr><td><code>{@link #AbsRecyclerViewFastScroller_rfs_handleBackground ru.kazantsev.demoapp:rfs_handleBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #AbsRecyclerViewFastScroller_rfs_handleColor ru.kazantsev.demoapp:rfs_handleColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AbsRecyclerViewFastScroller_rfs_barBackground ru.kazantsev.baseapp:rfs_barBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #AbsRecyclerViewFastScroller_rfs_barColor ru.kazantsev.baseapp:rfs_barColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AbsRecyclerViewFastScroller_rfs_fast_scroller_layout ru.kazantsev.baseapp:rfs_fast_scroller_layout}</code></td><td></td></tr>
+           <tr><td><code>{@link #AbsRecyclerViewFastScroller_rfs_handleBackground ru.kazantsev.baseapp:rfs_handleBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #AbsRecyclerViewFastScroller_rfs_handleColor ru.kazantsev.baseapp:rfs_handleColor}</code></td><td></td></tr>
            </table>
            @see #AbsRecyclerViewFastScroller_rfs_barBackground
            @see #AbsRecyclerViewFastScroller_rfs_barColor
@@ -3547,17 +3547,17 @@ containing a value of this type.
             0x7f010009
         };
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#rfs_barBackground}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#rfs_barBackground}
           attribute's value can be found in the {@link #AbsRecyclerViewFastScroller} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.kazantsev.demoapp:rfs_barBackground
+          @attr name ru.kazantsev.baseapp:rfs_barBackground
         */
         public static final int AbsRecyclerViewFastScroller_rfs_barBackground = 2;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#rfs_barColor}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#rfs_barColor}
           attribute's value can be found in the {@link #AbsRecyclerViewFastScroller} array.
 
 
@@ -3565,31 +3565,31 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name ru.kazantsev.demoapp:rfs_barColor
+          @attr name ru.kazantsev.baseapp:rfs_barColor
         */
         public static final int AbsRecyclerViewFastScroller_rfs_barColor = 1;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#rfs_fast_scroller_layout}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#rfs_fast_scroller_layout}
           attribute's value can be found in the {@link #AbsRecyclerViewFastScroller} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.kazantsev.demoapp:rfs_fast_scroller_layout
+          @attr name ru.kazantsev.baseapp:rfs_fast_scroller_layout
         */
         public static final int AbsRecyclerViewFastScroller_rfs_fast_scroller_layout = 0;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#rfs_handleBackground}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#rfs_handleBackground}
           attribute's value can be found in the {@link #AbsRecyclerViewFastScroller} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.kazantsev.demoapp:rfs_handleBackground
+          @attr name ru.kazantsev.baseapp:rfs_handleBackground
         */
         public static final int AbsRecyclerViewFastScroller_rfs_handleBackground = 4;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#rfs_handleColor}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#rfs_handleColor}
           attribute's value can be found in the {@link #AbsRecyclerViewFastScroller} array.
 
 
@@ -3597,7 +3597,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name ru.kazantsev.demoapp:rfs_handleColor
+          @attr name ru.kazantsev.baseapp:rfs_handleColor
         */
         public static final int AbsRecyclerViewFastScroller_rfs_handleColor = 3;
         /** Attributes that can be used with a AbsSectionIndicator.
@@ -3606,7 +3606,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #AbsSectionIndicator_rfs_section_indicator_layout ru.kazantsev.demoapp:rfs_section_indicator_layout}</code></td><td></td></tr>
+           <tr><td><code>{@link #AbsSectionIndicator_rfs_section_indicator_layout ru.kazantsev.baseapp:rfs_section_indicator_layout}</code></td><td></td></tr>
            </table>
            @see #AbsSectionIndicator_rfs_section_indicator_layout
          */
@@ -3614,13 +3614,13 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f01000a
         };
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#rfs_section_indicator_layout}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#rfs_section_indicator_layout}
           attribute's value can be found in the {@link #AbsSectionIndicator} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.kazantsev.demoapp:rfs_section_indicator_layout
+          @attr name ru.kazantsev.baseapp:rfs_section_indicator_layout
         */
         public static final int AbsSectionIndicator_rfs_section_indicator_layout = 0;
         /** Attributes that can be used with a ActionBar.
@@ -3629,33 +3629,33 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ActionBar_background ru.kazantsev.demoapp:background}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_backgroundSplit ru.kazantsev.demoapp:backgroundSplit}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_backgroundStacked ru.kazantsev.demoapp:backgroundStacked}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetEnd ru.kazantsev.demoapp:contentInsetEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetLeft ru.kazantsev.demoapp:contentInsetLeft}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetRight ru.kazantsev.demoapp:contentInsetRight}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetStart ru.kazantsev.demoapp:contentInsetStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_customNavigationLayout ru.kazantsev.demoapp:customNavigationLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_displayOptions ru.kazantsev.demoapp:displayOptions}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_divider ru.kazantsev.demoapp:divider}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_elevation ru.kazantsev.demoapp:elevation}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_height ru.kazantsev.demoapp:height}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_hideOnContentScroll ru.kazantsev.demoapp:hideOnContentScroll}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_homeAsUpIndicator ru.kazantsev.demoapp:homeAsUpIndicator}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_homeLayout ru.kazantsev.demoapp:homeLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_icon ru.kazantsev.demoapp:icon}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_indeterminateProgressStyle ru.kazantsev.demoapp:indeterminateProgressStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_itemPadding ru.kazantsev.demoapp:itemPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_logo ru.kazantsev.demoapp:logo}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_navigationMode ru.kazantsev.demoapp:navigationMode}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_popupTheme ru.kazantsev.demoapp:popupTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_progressBarPadding ru.kazantsev.demoapp:progressBarPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_progressBarStyle ru.kazantsev.demoapp:progressBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_subtitle ru.kazantsev.demoapp:subtitle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_subtitleTextStyle ru.kazantsev.demoapp:subtitleTextStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_title ru.kazantsev.demoapp:title}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_titleTextStyle ru.kazantsev.demoapp:titleTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_background ru.kazantsev.baseapp:background}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_backgroundSplit ru.kazantsev.baseapp:backgroundSplit}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_backgroundStacked ru.kazantsev.baseapp:backgroundStacked}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetEnd ru.kazantsev.baseapp:contentInsetEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetLeft ru.kazantsev.baseapp:contentInsetLeft}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetRight ru.kazantsev.baseapp:contentInsetRight}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetStart ru.kazantsev.baseapp:contentInsetStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_customNavigationLayout ru.kazantsev.baseapp:customNavigationLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_displayOptions ru.kazantsev.baseapp:displayOptions}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_divider ru.kazantsev.baseapp:divider}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_elevation ru.kazantsev.baseapp:elevation}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_height ru.kazantsev.baseapp:height}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_hideOnContentScroll ru.kazantsev.baseapp:hideOnContentScroll}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_homeAsUpIndicator ru.kazantsev.baseapp:homeAsUpIndicator}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_homeLayout ru.kazantsev.baseapp:homeLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_icon ru.kazantsev.baseapp:icon}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_indeterminateProgressStyle ru.kazantsev.baseapp:indeterminateProgressStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_itemPadding ru.kazantsev.baseapp:itemPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_logo ru.kazantsev.baseapp:logo}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_navigationMode ru.kazantsev.baseapp:navigationMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_popupTheme ru.kazantsev.baseapp:popupTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_progressBarPadding ru.kazantsev.baseapp:progressBarPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_progressBarStyle ru.kazantsev.baseapp:progressBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_subtitle ru.kazantsev.baseapp:subtitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_subtitleTextStyle ru.kazantsev.baseapp:subtitleTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_title ru.kazantsev.baseapp:title}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_titleTextStyle ru.kazantsev.baseapp:titleTextStyle}</code></td><td></td></tr>
            </table>
            @see #ActionBar_background
            @see #ActionBar_backgroundSplit
@@ -3695,17 +3695,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f010021, 0x7f010022, 0x7f0100f0
         };
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#background}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#background}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.kazantsev.demoapp:background
+          @attr name ru.kazantsev.baseapp:background
         */
         public static final int ActionBar_background = 10;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#backgroundSplit}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#backgroundSplit}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3713,11 +3713,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name ru.kazantsev.demoapp:backgroundSplit
+          @attr name ru.kazantsev.baseapp:backgroundSplit
         */
         public static final int ActionBar_backgroundSplit = 12;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#backgroundStacked}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#backgroundStacked}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3725,11 +3725,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name ru.kazantsev.demoapp:backgroundStacked
+          @attr name ru.kazantsev.baseapp:backgroundStacked
         */
         public static final int ActionBar_backgroundStacked = 11;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#contentInsetEnd}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#contentInsetEnd}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3741,11 +3741,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.kazantsev.demoapp:contentInsetEnd
+          @attr name ru.kazantsev.baseapp:contentInsetEnd
         */
         public static final int ActionBar_contentInsetEnd = 21;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#contentInsetLeft}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#contentInsetLeft}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3757,11 +3757,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.kazantsev.demoapp:contentInsetLeft
+          @attr name ru.kazantsev.baseapp:contentInsetLeft
         */
         public static final int ActionBar_contentInsetLeft = 22;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#contentInsetRight}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#contentInsetRight}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3773,11 +3773,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.kazantsev.demoapp:contentInsetRight
+          @attr name ru.kazantsev.baseapp:contentInsetRight
         */
         public static final int ActionBar_contentInsetRight = 23;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#contentInsetStart}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#contentInsetStart}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3789,21 +3789,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.kazantsev.demoapp:contentInsetStart
+          @attr name ru.kazantsev.baseapp:contentInsetStart
         */
         public static final int ActionBar_contentInsetStart = 20;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#customNavigationLayout}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#customNavigationLayout}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.kazantsev.demoapp:customNavigationLayout
+          @attr name ru.kazantsev.baseapp:customNavigationLayout
         */
         public static final int ActionBar_customNavigationLayout = 13;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#displayOptions}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#displayOptions}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3821,21 +3821,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>showCustom</code></td><td>0x10</td><td></td></tr>
 <tr><td><code>disableHome</code></td><td>0x20</td><td></td></tr>
 </table>
-          @attr name ru.kazantsev.demoapp:displayOptions
+          @attr name ru.kazantsev.baseapp:displayOptions
         */
         public static final int ActionBar_displayOptions = 3;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#divider}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#divider}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.kazantsev.demoapp:divider
+          @attr name ru.kazantsev.baseapp:divider
         */
         public static final int ActionBar_divider = 9;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#elevation}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#elevation}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3847,11 +3847,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.kazantsev.demoapp:elevation
+          @attr name ru.kazantsev.baseapp:elevation
         */
         public static final int ActionBar_elevation = 24;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#height}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#height}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3863,11 +3863,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.kazantsev.demoapp:height
+          @attr name ru.kazantsev.baseapp:height
         */
         public static final int ActionBar_height = 0;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#hideOnContentScroll}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#hideOnContentScroll}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3877,51 +3877,51 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.kazantsev.demoapp:hideOnContentScroll
+          @attr name ru.kazantsev.baseapp:hideOnContentScroll
         */
         public static final int ActionBar_hideOnContentScroll = 19;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#homeAsUpIndicator}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#homeAsUpIndicator}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.kazantsev.demoapp:homeAsUpIndicator
+          @attr name ru.kazantsev.baseapp:homeAsUpIndicator
         */
         public static final int ActionBar_homeAsUpIndicator = 26;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#homeLayout}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#homeLayout}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.kazantsev.demoapp:homeLayout
+          @attr name ru.kazantsev.baseapp:homeLayout
         */
         public static final int ActionBar_homeLayout = 14;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#icon}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#icon}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.kazantsev.demoapp:icon
+          @attr name ru.kazantsev.baseapp:icon
         */
         public static final int ActionBar_icon = 7;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#indeterminateProgressStyle}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#indeterminateProgressStyle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.kazantsev.demoapp:indeterminateProgressStyle
+          @attr name ru.kazantsev.baseapp:indeterminateProgressStyle
         */
         public static final int ActionBar_indeterminateProgressStyle = 16;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#itemPadding}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#itemPadding}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3933,21 +3933,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.kazantsev.demoapp:itemPadding
+          @attr name ru.kazantsev.baseapp:itemPadding
         */
         public static final int ActionBar_itemPadding = 18;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#logo}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#logo}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.kazantsev.demoapp:logo
+          @attr name ru.kazantsev.baseapp:logo
         */
         public static final int ActionBar_logo = 8;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#navigationMode}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#navigationMode}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3961,21 +3961,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>listMode</code></td><td>1</td><td></td></tr>
 <tr><td><code>tabMode</code></td><td>2</td><td></td></tr>
 </table>
-          @attr name ru.kazantsev.demoapp:navigationMode
+          @attr name ru.kazantsev.baseapp:navigationMode
         */
         public static final int ActionBar_navigationMode = 2;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#popupTheme}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#popupTheme}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.kazantsev.demoapp:popupTheme
+          @attr name ru.kazantsev.baseapp:popupTheme
         */
         public static final int ActionBar_popupTheme = 25;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#progressBarPadding}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#progressBarPadding}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3987,21 +3987,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.kazantsev.demoapp:progressBarPadding
+          @attr name ru.kazantsev.baseapp:progressBarPadding
         */
         public static final int ActionBar_progressBarPadding = 17;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#progressBarStyle}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#progressBarStyle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.kazantsev.demoapp:progressBarStyle
+          @attr name ru.kazantsev.baseapp:progressBarStyle
         */
         public static final int ActionBar_progressBarStyle = 15;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#subtitle}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#subtitle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -4011,21 +4011,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.kazantsev.demoapp:subtitle
+          @attr name ru.kazantsev.baseapp:subtitle
         */
         public static final int ActionBar_subtitle = 4;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#subtitleTextStyle}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#subtitleTextStyle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.kazantsev.demoapp:subtitleTextStyle
+          @attr name ru.kazantsev.baseapp:subtitleTextStyle
         */
         public static final int ActionBar_subtitleTextStyle = 6;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#title}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#title}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -4035,17 +4035,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.kazantsev.demoapp:title
+          @attr name ru.kazantsev.baseapp:title
         */
         public static final int ActionBar_title = 1;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#titleTextStyle}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#titleTextStyle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.kazantsev.demoapp:titleTextStyle
+          @attr name ru.kazantsev.baseapp:titleTextStyle
         */
         public static final int ActionBar_titleTextStyle = 5;
         /** Attributes that can be used with a ActionBarLayout.
@@ -4097,12 +4097,12 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ActionMode_background ru.kazantsev.demoapp:background}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_backgroundSplit ru.kazantsev.demoapp:backgroundSplit}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_closeItemLayout ru.kazantsev.demoapp:closeItemLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_height ru.kazantsev.demoapp:height}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_subtitleTextStyle ru.kazantsev.demoapp:subtitleTextStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_titleTextStyle ru.kazantsev.demoapp:titleTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_background ru.kazantsev.baseapp:background}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_backgroundSplit ru.kazantsev.baseapp:backgroundSplit}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_closeItemLayout ru.kazantsev.baseapp:closeItemLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_height ru.kazantsev.baseapp:height}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_subtitleTextStyle ru.kazantsev.baseapp:subtitleTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_titleTextStyle ru.kazantsev.baseapp:titleTextStyle}</code></td><td></td></tr>
            </table>
            @see #ActionMode_background
            @see #ActionMode_backgroundSplit
@@ -4116,17 +4116,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f010015, 0x7f010023
         };
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#background}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#background}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.kazantsev.demoapp:background
+          @attr name ru.kazantsev.baseapp:background
         */
         public static final int ActionMode_background = 3;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#backgroundSplit}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#backgroundSplit}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
@@ -4134,21 +4134,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name ru.kazantsev.demoapp:backgroundSplit
+          @attr name ru.kazantsev.baseapp:backgroundSplit
         */
         public static final int ActionMode_backgroundSplit = 4;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#closeItemLayout}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#closeItemLayout}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.kazantsev.demoapp:closeItemLayout
+          @attr name ru.kazantsev.baseapp:closeItemLayout
         */
         public static final int ActionMode_closeItemLayout = 5;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#height}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#height}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
@@ -4160,27 +4160,27 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.kazantsev.demoapp:height
+          @attr name ru.kazantsev.baseapp:height
         */
         public static final int ActionMode_height = 0;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#subtitleTextStyle}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#subtitleTextStyle}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.kazantsev.demoapp:subtitleTextStyle
+          @attr name ru.kazantsev.baseapp:subtitleTextStyle
         */
         public static final int ActionMode_subtitleTextStyle = 2;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#titleTextStyle}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#titleTextStyle}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.kazantsev.demoapp:titleTextStyle
+          @attr name ru.kazantsev.baseapp:titleTextStyle
         */
         public static final int ActionMode_titleTextStyle = 1;
         /** Attributes that can be used with a ActivityChooserView.
@@ -4189,8 +4189,8 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ActivityChooserView_expandActivityOverflowButtonDrawable ru.kazantsev.demoapp:expandActivityOverflowButtonDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActivityChooserView_initialActivityCount ru.kazantsev.demoapp:initialActivityCount}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActivityChooserView_expandActivityOverflowButtonDrawable ru.kazantsev.baseapp:expandActivityOverflowButtonDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActivityChooserView_initialActivityCount ru.kazantsev.baseapp:initialActivityCount}</code></td><td></td></tr>
            </table>
            @see #ActivityChooserView_expandActivityOverflowButtonDrawable
            @see #ActivityChooserView_initialActivityCount
@@ -4199,17 +4199,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f010024, 0x7f010025
         };
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#expandActivityOverflowButtonDrawable}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#expandActivityOverflowButtonDrawable}
           attribute's value can be found in the {@link #ActivityChooserView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.kazantsev.demoapp:expandActivityOverflowButtonDrawable
+          @attr name ru.kazantsev.baseapp:expandActivityOverflowButtonDrawable
         */
         public static final int ActivityChooserView_expandActivityOverflowButtonDrawable = 1;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#initialActivityCount}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#initialActivityCount}
           attribute's value can be found in the {@link #ActivityChooserView} array.
 
 
@@ -4219,7 +4219,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.kazantsev.demoapp:initialActivityCount
+          @attr name ru.kazantsev.baseapp:initialActivityCount
         */
         public static final int ActivityChooserView_initialActivityCount = 0;
         /** Attributes that can be used with a AddFloatingActionButton.
@@ -4228,7 +4228,7 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #AddFloatingActionButton_fab_plusIconColor ru.kazantsev.demoapp:fab_plusIconColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AddFloatingActionButton_fab_plusIconColor ru.kazantsev.baseapp:fab_plusIconColor}</code></td><td></td></tr>
            </table>
            @see #AddFloatingActionButton_fab_plusIconColor
          */
@@ -4236,7 +4236,7 @@ containing a value of this type.
             0x7f010026
         };
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#fab_plusIconColor}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#fab_plusIconColor}
           attribute's value can be found in the {@link #AddFloatingActionButton} array.
 
 
@@ -4247,7 +4247,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.kazantsev.demoapp:fab_plusIconColor
+          @attr name ru.kazantsev.baseapp:fab_plusIconColor
         */
         public static final int AddFloatingActionButton_fab_plusIconColor = 0;
         /** Attributes that can be used with a AlertDialog.
@@ -4257,11 +4257,11 @@ containing a value of this type.
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #AlertDialog_android_layout android:layout}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_buttonPanelSideLayout ru.kazantsev.demoapp:buttonPanelSideLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_listItemLayout ru.kazantsev.demoapp:listItemLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_listLayout ru.kazantsev.demoapp:listLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_multiChoiceItemLayout ru.kazantsev.demoapp:multiChoiceItemLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_singleChoiceItemLayout ru.kazantsev.demoapp:singleChoiceItemLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_buttonPanelSideLayout ru.kazantsev.baseapp:buttonPanelSideLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_listItemLayout ru.kazantsev.baseapp:listItemLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_listLayout ru.kazantsev.baseapp:listLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_multiChoiceItemLayout ru.kazantsev.baseapp:multiChoiceItemLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_singleChoiceItemLayout ru.kazantsev.baseapp:singleChoiceItemLayout}</code></td><td></td></tr>
            </table>
            @see #AlertDialog_android_layout
            @see #AlertDialog_buttonPanelSideLayout
@@ -4281,53 +4281,53 @@ containing a value of this type.
         */
         public static final int AlertDialog_android_layout = 0;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#buttonPanelSideLayout}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#buttonPanelSideLayout}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.kazantsev.demoapp:buttonPanelSideLayout
+          @attr name ru.kazantsev.baseapp:buttonPanelSideLayout
         */
         public static final int AlertDialog_buttonPanelSideLayout = 1;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#listItemLayout}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#listItemLayout}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.kazantsev.demoapp:listItemLayout
+          @attr name ru.kazantsev.baseapp:listItemLayout
         */
         public static final int AlertDialog_listItemLayout = 5;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#listLayout}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#listLayout}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.kazantsev.demoapp:listLayout
+          @attr name ru.kazantsev.baseapp:listLayout
         */
         public static final int AlertDialog_listLayout = 2;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#multiChoiceItemLayout}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#multiChoiceItemLayout}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.kazantsev.demoapp:multiChoiceItemLayout
+          @attr name ru.kazantsev.baseapp:multiChoiceItemLayout
         */
         public static final int AlertDialog_multiChoiceItemLayout = 3;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#singleChoiceItemLayout}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#singleChoiceItemLayout}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.kazantsev.demoapp:singleChoiceItemLayout
+          @attr name ru.kazantsev.baseapp:singleChoiceItemLayout
         */
         public static final int AlertDialog_singleChoiceItemLayout = 4;
         /** Attributes that can be used with a AppBarLayout.
@@ -4337,8 +4337,8 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #AppBarLayout_android_background android:background}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppBarLayout_elevation ru.kazantsev.demoapp:elevation}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppBarLayout_expanded ru.kazantsev.demoapp:expanded}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppBarLayout_elevation ru.kazantsev.baseapp:elevation}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppBarLayout_expanded ru.kazantsev.baseapp:expanded}</code></td><td></td></tr>
            </table>
            @see #AppBarLayout_android_background
            @see #AppBarLayout_elevation
@@ -4354,7 +4354,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int AppBarLayout_android_background = 0;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#elevation}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#elevation}
           attribute's value can be found in the {@link #AppBarLayout} array.
 
 
@@ -4366,11 +4366,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.kazantsev.demoapp:elevation
+          @attr name ru.kazantsev.baseapp:elevation
         */
         public static final int AppBarLayout_elevation = 1;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#expanded}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#expanded}
           attribute's value can be found in the {@link #AppBarLayout} array.
 
 
@@ -4380,7 +4380,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.kazantsev.demoapp:expanded
+          @attr name ru.kazantsev.baseapp:expanded
         */
         public static final int AppBarLayout_expanded = 2;
         /** Attributes that can be used with a AppBarLayout_LayoutParams.
@@ -4389,8 +4389,8 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #AppBarLayout_LayoutParams_layout_scrollFlags ru.kazantsev.demoapp:layout_scrollFlags}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppBarLayout_LayoutParams_layout_scrollInterpolator ru.kazantsev.demoapp:layout_scrollInterpolator}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppBarLayout_LayoutParams_layout_scrollFlags ru.kazantsev.baseapp:layout_scrollFlags}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppBarLayout_LayoutParams_layout_scrollInterpolator ru.kazantsev.baseapp:layout_scrollInterpolator}</code></td><td></td></tr>
            </table>
            @see #AppBarLayout_LayoutParams_layout_scrollFlags
            @see #AppBarLayout_LayoutParams_layout_scrollInterpolator
@@ -4399,7 +4399,7 @@ containing a value of this type.
             0x7f01002d, 0x7f01002e
         };
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#layout_scrollFlags}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#layout_scrollFlags}
           attribute's value can be found in the {@link #AppBarLayout_LayoutParams} array.
 
 
@@ -4415,17 +4415,17 @@ containing a value of this type.
 <tr><td><code>enterAlwaysCollapsed</code></td><td>0x8</td><td></td></tr>
 <tr><td><code>snap</code></td><td>0x10</td><td></td></tr>
 </table>
-          @attr name ru.kazantsev.demoapp:layout_scrollFlags
+          @attr name ru.kazantsev.baseapp:layout_scrollFlags
         */
         public static final int AppBarLayout_LayoutParams_layout_scrollFlags = 0;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#layout_scrollInterpolator}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#layout_scrollInterpolator}
           attribute's value can be found in the {@link #AppBarLayout_LayoutParams} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.kazantsev.demoapp:layout_scrollInterpolator
+          @attr name ru.kazantsev.baseapp:layout_scrollInterpolator
         */
         public static final int AppBarLayout_LayoutParams_layout_scrollInterpolator = 1;
         /** Attributes that can be used with a AppCompatTextView.
@@ -4435,7 +4435,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #AppCompatTextView_android_textAppearance android:textAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTextView_textAllCaps ru.kazantsev.demoapp:textAllCaps}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTextView_textAllCaps ru.kazantsev.baseapp:textAllCaps}</code></td><td></td></tr>
            </table>
            @see #AppCompatTextView_android_textAppearance
            @see #AppCompatTextView_textAllCaps
@@ -4450,14 +4450,14 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int AppCompatTextView_android_textAppearance = 0;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#textAllCaps}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#textAllCaps}
           attribute's value can be found in the {@link #AppCompatTextView} array.
 
 
           <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a boolean value, either "<code>true</code>" or "<code>false</code>".
-          @attr name ru.kazantsev.demoapp:textAllCaps
+          @attr name ru.kazantsev.baseapp:textAllCaps
         */
         public static final int AppCompatTextView_textAllCaps = 1;
         /** Attributes that can be used with a ButtonBarLayout.
@@ -4466,7 +4466,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ButtonBarLayout_allowStacking ru.kazantsev.demoapp:allowStacking}</code></td><td></td></tr>
+           <tr><td><code>{@link #ButtonBarLayout_allowStacking ru.kazantsev.baseapp:allowStacking}</code></td><td></td></tr>
            </table>
            @see #ButtonBarLayout_allowStacking
          */
@@ -4474,7 +4474,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f010030
         };
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#allowStacking}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#allowStacking}
           attribute's value can be found in the {@link #ButtonBarLayout} array.
 
 
@@ -4484,7 +4484,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.kazantsev.demoapp:allowStacking
+          @attr name ru.kazantsev.baseapp:allowStacking
         */
         public static final int ButtonBarLayout_allowStacking = 0;
         /** Attributes that can be used with a CardView.
@@ -4493,17 +4493,17 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #CardView_cardBackgroundColor ru.kazantsev.demoapp:cardBackgroundColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #CardView_cardCornerRadius ru.kazantsev.demoapp:cardCornerRadius}</code></td><td></td></tr>
-           <tr><td><code>{@link #CardView_cardElevation ru.kazantsev.demoapp:cardElevation}</code></td><td></td></tr>
-           <tr><td><code>{@link #CardView_cardMaxElevation ru.kazantsev.demoapp:cardMaxElevation}</code></td><td></td></tr>
-           <tr><td><code>{@link #CardView_cardPreventCornerOverlap ru.kazantsev.demoapp:cardPreventCornerOverlap}</code></td><td></td></tr>
-           <tr><td><code>{@link #CardView_cardUseCompatPadding ru.kazantsev.demoapp:cardUseCompatPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #CardView_contentPadding ru.kazantsev.demoapp:contentPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #CardView_contentPaddingBottom ru.kazantsev.demoapp:contentPaddingBottom}</code></td><td></td></tr>
-           <tr><td><code>{@link #CardView_contentPaddingLeft ru.kazantsev.demoapp:contentPaddingLeft}</code></td><td></td></tr>
-           <tr><td><code>{@link #CardView_contentPaddingRight ru.kazantsev.demoapp:contentPaddingRight}</code></td><td></td></tr>
-           <tr><td><code>{@link #CardView_contentPaddingTop ru.kazantsev.demoapp:contentPaddingTop}</code></td><td></td></tr>
+           <tr><td><code>{@link #CardView_cardBackgroundColor ru.kazantsev.baseapp:cardBackgroundColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #CardView_cardCornerRadius ru.kazantsev.baseapp:cardCornerRadius}</code></td><td></td></tr>
+           <tr><td><code>{@link #CardView_cardElevation ru.kazantsev.baseapp:cardElevation}</code></td><td></td></tr>
+           <tr><td><code>{@link #CardView_cardMaxElevation ru.kazantsev.baseapp:cardMaxElevation}</code></td><td></td></tr>
+           <tr><td><code>{@link #CardView_cardPreventCornerOverlap ru.kazantsev.baseapp:cardPreventCornerOverlap}</code></td><td></td></tr>
+           <tr><td><code>{@link #CardView_cardUseCompatPadding ru.kazantsev.baseapp:cardUseCompatPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #CardView_contentPadding ru.kazantsev.baseapp:contentPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #CardView_contentPaddingBottom ru.kazantsev.baseapp:contentPaddingBottom}</code></td><td></td></tr>
+           <tr><td><code>{@link #CardView_contentPaddingLeft ru.kazantsev.baseapp:contentPaddingLeft}</code></td><td></td></tr>
+           <tr><td><code>{@link #CardView_contentPaddingRight ru.kazantsev.baseapp:contentPaddingRight}</code></td><td></td></tr>
+           <tr><td><code>{@link #CardView_contentPaddingTop ru.kazantsev.baseapp:contentPaddingTop}</code></td><td></td></tr>
            </table>
            @see #CardView_cardBackgroundColor
            @see #CardView_cardCornerRadius
@@ -4523,7 +4523,7 @@ containing a value of this type.
             0x7f010039, 0x7f01003a, 0x7f01003b
         };
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#cardBackgroundColor}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#cardBackgroundColor}
           attribute's value can be found in the {@link #CardView} array.
 
 
@@ -4534,11 +4534,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.kazantsev.demoapp:cardBackgroundColor
+          @attr name ru.kazantsev.baseapp:cardBackgroundColor
         */
         public static final int CardView_cardBackgroundColor = 0;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#cardCornerRadius}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#cardCornerRadius}
           attribute's value can be found in the {@link #CardView} array.
 
 
@@ -4550,11 +4550,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.kazantsev.demoapp:cardCornerRadius
+          @attr name ru.kazantsev.baseapp:cardCornerRadius
         */
         public static final int CardView_cardCornerRadius = 1;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#cardElevation}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#cardElevation}
           attribute's value can be found in the {@link #CardView} array.
 
 
@@ -4566,11 +4566,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.kazantsev.demoapp:cardElevation
+          @attr name ru.kazantsev.baseapp:cardElevation
         */
         public static final int CardView_cardElevation = 2;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#cardMaxElevation}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#cardMaxElevation}
           attribute's value can be found in the {@link #CardView} array.
 
 
@@ -4582,11 +4582,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.kazantsev.demoapp:cardMaxElevation
+          @attr name ru.kazantsev.baseapp:cardMaxElevation
         */
         public static final int CardView_cardMaxElevation = 3;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#cardPreventCornerOverlap}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#cardPreventCornerOverlap}
           attribute's value can be found in the {@link #CardView} array.
 
 
@@ -4596,11 +4596,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.kazantsev.demoapp:cardPreventCornerOverlap
+          @attr name ru.kazantsev.baseapp:cardPreventCornerOverlap
         */
         public static final int CardView_cardPreventCornerOverlap = 5;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#cardUseCompatPadding}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#cardUseCompatPadding}
           attribute's value can be found in the {@link #CardView} array.
 
 
@@ -4610,11 +4610,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.kazantsev.demoapp:cardUseCompatPadding
+          @attr name ru.kazantsev.baseapp:cardUseCompatPadding
         */
         public static final int CardView_cardUseCompatPadding = 4;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#contentPadding}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#contentPadding}
           attribute's value can be found in the {@link #CardView} array.
 
 
@@ -4626,11 +4626,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.kazantsev.demoapp:contentPadding
+          @attr name ru.kazantsev.baseapp:contentPadding
         */
         public static final int CardView_contentPadding = 6;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#contentPaddingBottom}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#contentPaddingBottom}
           attribute's value can be found in the {@link #CardView} array.
 
 
@@ -4642,11 +4642,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.kazantsev.demoapp:contentPaddingBottom
+          @attr name ru.kazantsev.baseapp:contentPaddingBottom
         */
         public static final int CardView_contentPaddingBottom = 10;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#contentPaddingLeft}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#contentPaddingLeft}
           attribute's value can be found in the {@link #CardView} array.
 
 
@@ -4658,11 +4658,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.kazantsev.demoapp:contentPaddingLeft
+          @attr name ru.kazantsev.baseapp:contentPaddingLeft
         */
         public static final int CardView_contentPaddingLeft = 7;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#contentPaddingRight}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#contentPaddingRight}
           attribute's value can be found in the {@link #CardView} array.
 
 
@@ -4674,11 +4674,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.kazantsev.demoapp:contentPaddingRight
+          @attr name ru.kazantsev.baseapp:contentPaddingRight
         */
         public static final int CardView_contentPaddingRight = 8;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#contentPaddingTop}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#contentPaddingTop}
           attribute's value can be found in the {@link #CardView} array.
 
 
@@ -4690,7 +4690,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.kazantsev.demoapp:contentPaddingTop
+          @attr name ru.kazantsev.baseapp:contentPaddingTop
         */
         public static final int CardView_contentPaddingTop = 9;
         /** Attributes that can be used with a CollapsingAppBarLayout_LayoutParams.
@@ -4699,8 +4699,8 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #CollapsingAppBarLayout_LayoutParams_layout_collapseMode ru.kazantsev.demoapp:layout_collapseMode}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingAppBarLayout_LayoutParams_layout_collapseParallaxMultiplier ru.kazantsev.demoapp:layout_collapseParallaxMultiplier}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingAppBarLayout_LayoutParams_layout_collapseMode ru.kazantsev.baseapp:layout_collapseMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingAppBarLayout_LayoutParams_layout_collapseParallaxMultiplier ru.kazantsev.baseapp:layout_collapseParallaxMultiplier}</code></td><td></td></tr>
            </table>
            @see #CollapsingAppBarLayout_LayoutParams_layout_collapseMode
            @see #CollapsingAppBarLayout_LayoutParams_layout_collapseParallaxMultiplier
@@ -4709,7 +4709,7 @@ containing a value of this type.
             0x7f01003c, 0x7f01003d
         };
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#layout_collapseMode}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#layout_collapseMode}
           attribute's value can be found in the {@link #CollapsingAppBarLayout_LayoutParams} array.
 
 
@@ -4723,11 +4723,11 @@ containing a value of this type.
 <tr><td><code>pin</code></td><td>1</td><td></td></tr>
 <tr><td><code>parallax</code></td><td>2</td><td></td></tr>
 </table>
-          @attr name ru.kazantsev.demoapp:layout_collapseMode
+          @attr name ru.kazantsev.baseapp:layout_collapseMode
         */
         public static final int CollapsingAppBarLayout_LayoutParams_layout_collapseMode = 0;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#layout_collapseParallaxMultiplier}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#layout_collapseParallaxMultiplier}
           attribute's value can be found in the {@link #CollapsingAppBarLayout_LayoutParams} array.
 
 
@@ -4737,7 +4737,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.kazantsev.demoapp:layout_collapseParallaxMultiplier
+          @attr name ru.kazantsev.baseapp:layout_collapseParallaxMultiplier
         */
         public static final int CollapsingAppBarLayout_LayoutParams_layout_collapseParallaxMultiplier = 1;
         /** Attributes that can be used with a CollapsingToolbarLayout.
@@ -4746,20 +4746,20 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_collapsedTitleGravity ru.kazantsev.demoapp:collapsedTitleGravity}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_collapsedTitleTextAppearance ru.kazantsev.demoapp:collapsedTitleTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_contentScrim ru.kazantsev.demoapp:contentScrim}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleGravity ru.kazantsev.demoapp:expandedTitleGravity}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMargin ru.kazantsev.demoapp:expandedTitleMargin}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginBottom ru.kazantsev.demoapp:expandedTitleMarginBottom}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginEnd ru.kazantsev.demoapp:expandedTitleMarginEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginStart ru.kazantsev.demoapp:expandedTitleMarginStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginTop ru.kazantsev.demoapp:expandedTitleMarginTop}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleTextAppearance ru.kazantsev.demoapp:expandedTitleTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_statusBarScrim ru.kazantsev.demoapp:statusBarScrim}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_title ru.kazantsev.demoapp:title}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_titleEnabled ru.kazantsev.demoapp:titleEnabled}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_toolbarId ru.kazantsev.demoapp:toolbarId}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_collapsedTitleGravity ru.kazantsev.baseapp:collapsedTitleGravity}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_collapsedTitleTextAppearance ru.kazantsev.baseapp:collapsedTitleTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_contentScrim ru.kazantsev.baseapp:contentScrim}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleGravity ru.kazantsev.baseapp:expandedTitleGravity}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMargin ru.kazantsev.baseapp:expandedTitleMargin}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginBottom ru.kazantsev.baseapp:expandedTitleMarginBottom}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginEnd ru.kazantsev.baseapp:expandedTitleMarginEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginStart ru.kazantsev.baseapp:expandedTitleMarginStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginTop ru.kazantsev.baseapp:expandedTitleMarginTop}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleTextAppearance ru.kazantsev.baseapp:expandedTitleTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_statusBarScrim ru.kazantsev.baseapp:statusBarScrim}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_title ru.kazantsev.baseapp:title}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_titleEnabled ru.kazantsev.baseapp:titleEnabled}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_toolbarId ru.kazantsev.baseapp:toolbarId}</code></td><td></td></tr>
            </table>
            @see #CollapsingToolbarLayout_collapsedTitleGravity
            @see #CollapsingToolbarLayout_collapsedTitleTextAppearance
@@ -4783,7 +4783,7 @@ containing a value of this type.
             0x7f010049, 0x7f01004a
         };
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#collapsedTitleGravity}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#collapsedTitleGravity}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -4804,21 +4804,21 @@ containing a value of this type.
 <tr><td><code>start</code></td><td>0x00800003</td><td></td></tr>
 <tr><td><code>end</code></td><td>0x00800005</td><td></td></tr>
 </table>
-          @attr name ru.kazantsev.demoapp:collapsedTitleGravity
+          @attr name ru.kazantsev.baseapp:collapsedTitleGravity
         */
         public static final int CollapsingToolbarLayout_collapsedTitleGravity = 11;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#collapsedTitleTextAppearance}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#collapsedTitleTextAppearance}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.kazantsev.demoapp:collapsedTitleTextAppearance
+          @attr name ru.kazantsev.baseapp:collapsedTitleTextAppearance
         */
         public static final int CollapsingToolbarLayout_collapsedTitleTextAppearance = 7;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#contentScrim}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#contentScrim}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -4829,11 +4829,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.kazantsev.demoapp:contentScrim
+          @attr name ru.kazantsev.baseapp:contentScrim
         */
         public static final int CollapsingToolbarLayout_contentScrim = 8;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#expandedTitleGravity}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#expandedTitleGravity}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -4854,11 +4854,11 @@ containing a value of this type.
 <tr><td><code>start</code></td><td>0x00800003</td><td></td></tr>
 <tr><td><code>end</code></td><td>0x00800005</td><td></td></tr>
 </table>
-          @attr name ru.kazantsev.demoapp:expandedTitleGravity
+          @attr name ru.kazantsev.baseapp:expandedTitleGravity
         */
         public static final int CollapsingToolbarLayout_expandedTitleGravity = 12;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#expandedTitleMargin}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#expandedTitleMargin}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -4870,11 +4870,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.kazantsev.demoapp:expandedTitleMargin
+          @attr name ru.kazantsev.baseapp:expandedTitleMargin
         */
         public static final int CollapsingToolbarLayout_expandedTitleMargin = 1;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#expandedTitleMarginBottom}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#expandedTitleMarginBottom}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -4886,11 +4886,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.kazantsev.demoapp:expandedTitleMarginBottom
+          @attr name ru.kazantsev.baseapp:expandedTitleMarginBottom
         */
         public static final int CollapsingToolbarLayout_expandedTitleMarginBottom = 5;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#expandedTitleMarginEnd}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#expandedTitleMarginEnd}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -4902,11 +4902,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.kazantsev.demoapp:expandedTitleMarginEnd
+          @attr name ru.kazantsev.baseapp:expandedTitleMarginEnd
         */
         public static final int CollapsingToolbarLayout_expandedTitleMarginEnd = 4;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#expandedTitleMarginStart}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#expandedTitleMarginStart}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -4918,11 +4918,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.kazantsev.demoapp:expandedTitleMarginStart
+          @attr name ru.kazantsev.baseapp:expandedTitleMarginStart
         */
         public static final int CollapsingToolbarLayout_expandedTitleMarginStart = 2;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#expandedTitleMarginTop}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#expandedTitleMarginTop}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -4934,21 +4934,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.kazantsev.demoapp:expandedTitleMarginTop
+          @attr name ru.kazantsev.baseapp:expandedTitleMarginTop
         */
         public static final int CollapsingToolbarLayout_expandedTitleMarginTop = 3;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#expandedTitleTextAppearance}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#expandedTitleTextAppearance}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.kazantsev.demoapp:expandedTitleTextAppearance
+          @attr name ru.kazantsev.baseapp:expandedTitleTextAppearance
         */
         public static final int CollapsingToolbarLayout_expandedTitleTextAppearance = 6;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#statusBarScrim}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#statusBarScrim}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -4959,11 +4959,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.kazantsev.demoapp:statusBarScrim
+          @attr name ru.kazantsev.baseapp:statusBarScrim
         */
         public static final int CollapsingToolbarLayout_statusBarScrim = 9;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#title}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#title}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -4973,11 +4973,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.kazantsev.demoapp:title
+          @attr name ru.kazantsev.baseapp:title
         */
         public static final int CollapsingToolbarLayout_title = 0;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#titleEnabled}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#titleEnabled}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -4987,17 +4987,17 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.kazantsev.demoapp:titleEnabled
+          @attr name ru.kazantsev.baseapp:titleEnabled
         */
         public static final int CollapsingToolbarLayout_titleEnabled = 13;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#toolbarId}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#toolbarId}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.kazantsev.demoapp:toolbarId
+          @attr name ru.kazantsev.baseapp:toolbarId
         */
         public static final int CollapsingToolbarLayout_toolbarId = 10;
         /** Attributes that can be used with a CompoundButton.
@@ -5007,8 +5007,8 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #CompoundButton_android_button android:button}</code></td><td></td></tr>
-           <tr><td><code>{@link #CompoundButton_buttonTint ru.kazantsev.demoapp:buttonTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #CompoundButton_buttonTintMode ru.kazantsev.demoapp:buttonTintMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #CompoundButton_buttonTint ru.kazantsev.baseapp:buttonTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #CompoundButton_buttonTintMode ru.kazantsev.baseapp:buttonTintMode}</code></td><td></td></tr>
            </table>
            @see #CompoundButton_android_button
            @see #CompoundButton_buttonTint
@@ -5024,7 +5024,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int CompoundButton_android_button = 0;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#buttonTint}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#buttonTint}
           attribute's value can be found in the {@link #CompoundButton} array.
 
 
@@ -5035,11 +5035,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.kazantsev.demoapp:buttonTint
+          @attr name ru.kazantsev.baseapp:buttonTint
         */
         public static final int CompoundButton_buttonTint = 1;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#buttonTintMode}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#buttonTintMode}
           attribute's value can be found in the {@link #CompoundButton} array.
 
 
@@ -5055,7 +5055,7 @@ containing a value of this type.
 <tr><td><code>multiply</code></td><td>14</td><td></td></tr>
 <tr><td><code>screen</code></td><td>15</td><td></td></tr>
 </table>
-          @attr name ru.kazantsev.demoapp:buttonTintMode
+          @attr name ru.kazantsev.baseapp:buttonTintMode
         */
         public static final int CompoundButton_buttonTintMode = 2;
         /** Attributes that can be used with a CoordinatorLayout.
@@ -5064,8 +5064,8 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #CoordinatorLayout_keylines ru.kazantsev.demoapp:keylines}</code></td><td></td></tr>
-           <tr><td><code>{@link #CoordinatorLayout_statusBarBackground ru.kazantsev.demoapp:statusBarBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #CoordinatorLayout_keylines ru.kazantsev.baseapp:keylines}</code></td><td></td></tr>
+           <tr><td><code>{@link #CoordinatorLayout_statusBarBackground ru.kazantsev.baseapp:statusBarBackground}</code></td><td></td></tr>
            </table>
            @see #CoordinatorLayout_keylines
            @see #CoordinatorLayout_statusBarBackground
@@ -5074,23 +5074,23 @@ containing a value of this type.
             0x7f01004d, 0x7f01004e
         };
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#keylines}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#keylines}
           attribute's value can be found in the {@link #CoordinatorLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.kazantsev.demoapp:keylines
+          @attr name ru.kazantsev.baseapp:keylines
         */
         public static final int CoordinatorLayout_keylines = 0;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#statusBarBackground}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#statusBarBackground}
           attribute's value can be found in the {@link #CoordinatorLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.kazantsev.demoapp:statusBarBackground
+          @attr name ru.kazantsev.baseapp:statusBarBackground
         */
         public static final int CoordinatorLayout_statusBarBackground = 1;
         /** Attributes that can be used with a CoordinatorLayout_LayoutParams.
@@ -5100,10 +5100,10 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #CoordinatorLayout_LayoutParams_android_layout_gravity android:layout_gravity}</code></td><td></td></tr>
-           <tr><td><code>{@link #CoordinatorLayout_LayoutParams_layout_anchor ru.kazantsev.demoapp:layout_anchor}</code></td><td></td></tr>
-           <tr><td><code>{@link #CoordinatorLayout_LayoutParams_layout_anchorGravity ru.kazantsev.demoapp:layout_anchorGravity}</code></td><td></td></tr>
-           <tr><td><code>{@link #CoordinatorLayout_LayoutParams_layout_behavior ru.kazantsev.demoapp:layout_behavior}</code></td><td></td></tr>
-           <tr><td><code>{@link #CoordinatorLayout_LayoutParams_layout_keyline ru.kazantsev.demoapp:layout_keyline}</code></td><td></td></tr>
+           <tr><td><code>{@link #CoordinatorLayout_LayoutParams_layout_anchor ru.kazantsev.baseapp:layout_anchor}</code></td><td></td></tr>
+           <tr><td><code>{@link #CoordinatorLayout_LayoutParams_layout_anchorGravity ru.kazantsev.baseapp:layout_anchorGravity}</code></td><td></td></tr>
+           <tr><td><code>{@link #CoordinatorLayout_LayoutParams_layout_behavior ru.kazantsev.baseapp:layout_behavior}</code></td><td></td></tr>
+           <tr><td><code>{@link #CoordinatorLayout_LayoutParams_layout_keyline ru.kazantsev.baseapp:layout_keyline}</code></td><td></td></tr>
            </table>
            @see #CoordinatorLayout_LayoutParams_android_layout_gravity
            @see #CoordinatorLayout_LayoutParams_layout_anchor
@@ -5122,17 +5122,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int CoordinatorLayout_LayoutParams_android_layout_gravity = 0;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#layout_anchor}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#layout_anchor}
           attribute's value can be found in the {@link #CoordinatorLayout_LayoutParams} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.kazantsev.demoapp:layout_anchor
+          @attr name ru.kazantsev.baseapp:layout_anchor
         */
         public static final int CoordinatorLayout_LayoutParams_layout_anchor = 2;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#layout_anchorGravity}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#layout_anchorGravity}
           attribute's value can be found in the {@link #CoordinatorLayout_LayoutParams} array.
 
 
@@ -5157,11 +5157,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>start</code></td><td>0x00800003</td><td></td></tr>
 <tr><td><code>end</code></td><td>0x00800005</td><td></td></tr>
 </table>
-          @attr name ru.kazantsev.demoapp:layout_anchorGravity
+          @attr name ru.kazantsev.baseapp:layout_anchorGravity
         */
         public static final int CoordinatorLayout_LayoutParams_layout_anchorGravity = 4;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#layout_behavior}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#layout_behavior}
           attribute's value can be found in the {@link #CoordinatorLayout_LayoutParams} array.
 
 
@@ -5171,11 +5171,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.kazantsev.demoapp:layout_behavior
+          @attr name ru.kazantsev.baseapp:layout_behavior
         */
         public static final int CoordinatorLayout_LayoutParams_layout_behavior = 1;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#layout_keyline}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#layout_keyline}
           attribute's value can be found in the {@link #CoordinatorLayout_LayoutParams} array.
 
 
@@ -5185,7 +5185,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.kazantsev.demoapp:layout_keyline
+          @attr name ru.kazantsev.baseapp:layout_keyline
         */
         public static final int CoordinatorLayout_LayoutParams_layout_keyline = 3;
         /** Attributes that can be used with a DrawerArrowToggle.
@@ -5194,14 +5194,14 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_arrowHeadLength ru.kazantsev.demoapp:arrowHeadLength}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_arrowShaftLength ru.kazantsev.demoapp:arrowShaftLength}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_barLength ru.kazantsev.demoapp:barLength}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_color ru.kazantsev.demoapp:color}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_drawableSize ru.kazantsev.demoapp:drawableSize}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_gapBetweenBars ru.kazantsev.demoapp:gapBetweenBars}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_spinBars ru.kazantsev.demoapp:spinBars}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_thickness ru.kazantsev.demoapp:thickness}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_arrowHeadLength ru.kazantsev.baseapp:arrowHeadLength}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_arrowShaftLength ru.kazantsev.baseapp:arrowShaftLength}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_barLength ru.kazantsev.baseapp:barLength}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_color ru.kazantsev.baseapp:color}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_drawableSize ru.kazantsev.baseapp:drawableSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_gapBetweenBars ru.kazantsev.baseapp:gapBetweenBars}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_spinBars ru.kazantsev.baseapp:spinBars}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_thickness ru.kazantsev.baseapp:thickness}</code></td><td></td></tr>
            </table>
            @see #DrawerArrowToggle_arrowHeadLength
            @see #DrawerArrowToggle_arrowShaftLength
@@ -5217,7 +5217,7 @@ containing a value of this type.
             0x7f010057, 0x7f010058, 0x7f010059, 0x7f01005a
         };
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#arrowHeadLength}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#arrowHeadLength}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -5229,11 +5229,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.kazantsev.demoapp:arrowHeadLength
+          @attr name ru.kazantsev.baseapp:arrowHeadLength
         */
         public static final int DrawerArrowToggle_arrowHeadLength = 4;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#arrowShaftLength}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#arrowShaftLength}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -5245,11 +5245,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.kazantsev.demoapp:arrowShaftLength
+          @attr name ru.kazantsev.baseapp:arrowShaftLength
         */
         public static final int DrawerArrowToggle_arrowShaftLength = 5;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#barLength}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#barLength}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -5261,11 +5261,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.kazantsev.demoapp:barLength
+          @attr name ru.kazantsev.baseapp:barLength
         */
         public static final int DrawerArrowToggle_barLength = 6;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#color}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#color}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -5276,11 +5276,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.kazantsev.demoapp:color
+          @attr name ru.kazantsev.baseapp:color
         */
         public static final int DrawerArrowToggle_color = 0;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#drawableSize}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#drawableSize}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -5292,11 +5292,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.kazantsev.demoapp:drawableSize
+          @attr name ru.kazantsev.baseapp:drawableSize
         */
         public static final int DrawerArrowToggle_drawableSize = 2;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#gapBetweenBars}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#gapBetweenBars}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -5308,11 +5308,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.kazantsev.demoapp:gapBetweenBars
+          @attr name ru.kazantsev.baseapp:gapBetweenBars
         */
         public static final int DrawerArrowToggle_gapBetweenBars = 3;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#spinBars}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#spinBars}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -5322,11 +5322,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.kazantsev.demoapp:spinBars
+          @attr name ru.kazantsev.baseapp:spinBars
         */
         public static final int DrawerArrowToggle_spinBars = 1;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#thickness}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#thickness}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -5338,7 +5338,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.kazantsev.demoapp:thickness
+          @attr name ru.kazantsev.baseapp:thickness
         */
         public static final int DrawerArrowToggle_thickness = 7;
         /** Attributes that can be used with a FloatingActionButton.
@@ -5347,20 +5347,20 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #FloatingActionButton_backgroundTint ru.kazantsev.demoapp:backgroundTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #FloatingActionButton_backgroundTintMode ru.kazantsev.demoapp:backgroundTintMode}</code></td><td></td></tr>
-           <tr><td><code>{@link #FloatingActionButton_borderWidth ru.kazantsev.demoapp:borderWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #FloatingActionButton_elevation ru.kazantsev.demoapp:elevation}</code></td><td></td></tr>
-           <tr><td><code>{@link #FloatingActionButton_fabSize ru.kazantsev.demoapp:fabSize}</code></td><td></td></tr>
-           <tr><td><code>{@link #FloatingActionButton_fab_colorDisabled ru.kazantsev.demoapp:fab_colorDisabled}</code></td><td></td></tr>
-           <tr><td><code>{@link #FloatingActionButton_fab_colorNormal ru.kazantsev.demoapp:fab_colorNormal}</code></td><td></td></tr>
-           <tr><td><code>{@link #FloatingActionButton_fab_colorPressed ru.kazantsev.demoapp:fab_colorPressed}</code></td><td></td></tr>
-           <tr><td><code>{@link #FloatingActionButton_fab_icon ru.kazantsev.demoapp:fab_icon}</code></td><td></td></tr>
-           <tr><td><code>{@link #FloatingActionButton_fab_size ru.kazantsev.demoapp:fab_size}</code></td><td></td></tr>
-           <tr><td><code>{@link #FloatingActionButton_fab_stroke_visible ru.kazantsev.demoapp:fab_stroke_visible}</code></td><td></td></tr>
-           <tr><td><code>{@link #FloatingActionButton_fab_title ru.kazantsev.demoapp:fab_title}</code></td><td></td></tr>
-           <tr><td><code>{@link #FloatingActionButton_pressedTranslationZ ru.kazantsev.demoapp:pressedTranslationZ}</code></td><td></td></tr>
-           <tr><td><code>{@link #FloatingActionButton_rippleColor ru.kazantsev.demoapp:rippleColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_backgroundTint ru.kazantsev.baseapp:backgroundTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_backgroundTintMode ru.kazantsev.baseapp:backgroundTintMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_borderWidth ru.kazantsev.baseapp:borderWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_elevation ru.kazantsev.baseapp:elevation}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_fabSize ru.kazantsev.baseapp:fabSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_fab_colorDisabled ru.kazantsev.baseapp:fab_colorDisabled}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_fab_colorNormal ru.kazantsev.baseapp:fab_colorNormal}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_fab_colorPressed ru.kazantsev.baseapp:fab_colorPressed}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_fab_icon ru.kazantsev.baseapp:fab_icon}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_fab_size ru.kazantsev.baseapp:fab_size}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_fab_stroke_visible ru.kazantsev.baseapp:fab_stroke_visible}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_fab_title ru.kazantsev.baseapp:fab_title}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_pressedTranslationZ ru.kazantsev.baseapp:pressedTranslationZ}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_rippleColor ru.kazantsev.baseapp:rippleColor}</code></td><td></td></tr>
            </table>
            @see #FloatingActionButton_backgroundTint
            @see #FloatingActionButton_backgroundTintMode
@@ -5384,7 +5384,7 @@ containing a value of this type.
             0x7f010140, 0x7f010141
         };
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#backgroundTint}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#backgroundTint}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -5395,11 +5395,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.kazantsev.demoapp:backgroundTint
+          @attr name ru.kazantsev.baseapp:backgroundTint
         */
         public static final int FloatingActionButton_backgroundTint = 12;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#backgroundTintMode}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#backgroundTintMode}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -5415,11 +5415,11 @@ containing a value of this type.
 <tr><td><code>multiply</code></td><td>14</td><td></td></tr>
 <tr><td><code>screen</code></td><td>15</td><td></td></tr>
 </table>
-          @attr name ru.kazantsev.demoapp:backgroundTintMode
+          @attr name ru.kazantsev.baseapp:backgroundTintMode
         */
         public static final int FloatingActionButton_backgroundTintMode = 13;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#borderWidth}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#borderWidth}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -5431,11 +5431,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.kazantsev.demoapp:borderWidth
+          @attr name ru.kazantsev.baseapp:borderWidth
         */
         public static final int FloatingActionButton_borderWidth = 11;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#elevation}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#elevation}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -5447,11 +5447,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.kazantsev.demoapp:elevation
+          @attr name ru.kazantsev.baseapp:elevation
         */
         public static final int FloatingActionButton_elevation = 0;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#fabSize}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#fabSize}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -5464,11 +5464,11 @@ containing a value of this type.
 <tr><td><code>normal</code></td><td>0</td><td></td></tr>
 <tr><td><code>mini</code></td><td>1</td><td></td></tr>
 </table>
-          @attr name ru.kazantsev.demoapp:fabSize
+          @attr name ru.kazantsev.baseapp:fabSize
         */
         public static final int FloatingActionButton_fabSize = 9;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#fab_colorDisabled}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#fab_colorDisabled}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -5479,11 +5479,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.kazantsev.demoapp:fab_colorDisabled
+          @attr name ru.kazantsev.baseapp:fab_colorDisabled
         */
         public static final int FloatingActionButton_fab_colorDisabled = 2;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#fab_colorNormal}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#fab_colorNormal}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -5494,11 +5494,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.kazantsev.demoapp:fab_colorNormal
+          @attr name ru.kazantsev.baseapp:fab_colorNormal
         */
         public static final int FloatingActionButton_fab_colorNormal = 3;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#fab_colorPressed}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#fab_colorPressed}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -5509,21 +5509,21 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.kazantsev.demoapp:fab_colorPressed
+          @attr name ru.kazantsev.baseapp:fab_colorPressed
         */
         public static final int FloatingActionButton_fab_colorPressed = 1;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#fab_icon}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#fab_icon}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.kazantsev.demoapp:fab_icon
+          @attr name ru.kazantsev.baseapp:fab_icon
         */
         public static final int FloatingActionButton_fab_icon = 4;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#fab_size}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#fab_size}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -5536,11 +5536,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>normal</code></td><td>0</td><td></td></tr>
 <tr><td><code>mini</code></td><td>1</td><td></td></tr>
 </table>
-          @attr name ru.kazantsev.demoapp:fab_size
+          @attr name ru.kazantsev.baseapp:fab_size
         */
         public static final int FloatingActionButton_fab_size = 5;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#fab_stroke_visible}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#fab_stroke_visible}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -5550,11 +5550,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.kazantsev.demoapp:fab_stroke_visible
+          @attr name ru.kazantsev.baseapp:fab_stroke_visible
         */
         public static final int FloatingActionButton_fab_stroke_visible = 7;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#fab_title}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#fab_title}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -5564,11 +5564,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.kazantsev.demoapp:fab_title
+          @attr name ru.kazantsev.baseapp:fab_title
         */
         public static final int FloatingActionButton_fab_title = 6;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#pressedTranslationZ}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#pressedTranslationZ}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -5580,11 +5580,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.kazantsev.demoapp:pressedTranslationZ
+          @attr name ru.kazantsev.baseapp:pressedTranslationZ
         */
         public static final int FloatingActionButton_pressedTranslationZ = 10;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#rippleColor}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#rippleColor}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -5595,7 +5595,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.kazantsev.demoapp:rippleColor
+          @attr name ru.kazantsev.baseapp:rippleColor
         */
         public static final int FloatingActionButton_rippleColor = 8;
         /** Attributes that can be used with a FloatingActionsMenu.
@@ -5604,14 +5604,14 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #FloatingActionsMenu_fab_addButtonColorNormal ru.kazantsev.demoapp:fab_addButtonColorNormal}</code></td><td></td></tr>
-           <tr><td><code>{@link #FloatingActionsMenu_fab_addButtonColorPressed ru.kazantsev.demoapp:fab_addButtonColorPressed}</code></td><td></td></tr>
-           <tr><td><code>{@link #FloatingActionsMenu_fab_addButtonPlusIconColor ru.kazantsev.demoapp:fab_addButtonPlusIconColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #FloatingActionsMenu_fab_addButtonSize ru.kazantsev.demoapp:fab_addButtonSize}</code></td><td></td></tr>
-           <tr><td><code>{@link #FloatingActionsMenu_fab_addButtonStrokeVisible ru.kazantsev.demoapp:fab_addButtonStrokeVisible}</code></td><td></td></tr>
-           <tr><td><code>{@link #FloatingActionsMenu_fab_expandDirection ru.kazantsev.demoapp:fab_expandDirection}</code></td><td></td></tr>
-           <tr><td><code>{@link #FloatingActionsMenu_fab_labelStyle ru.kazantsev.demoapp:fab_labelStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #FloatingActionsMenu_fab_labelsPosition ru.kazantsev.demoapp:fab_labelsPosition}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionsMenu_fab_addButtonColorNormal ru.kazantsev.baseapp:fab_addButtonColorNormal}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionsMenu_fab_addButtonColorPressed ru.kazantsev.baseapp:fab_addButtonColorPressed}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionsMenu_fab_addButtonPlusIconColor ru.kazantsev.baseapp:fab_addButtonPlusIconColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionsMenu_fab_addButtonSize ru.kazantsev.baseapp:fab_addButtonSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionsMenu_fab_addButtonStrokeVisible ru.kazantsev.baseapp:fab_addButtonStrokeVisible}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionsMenu_fab_expandDirection ru.kazantsev.baseapp:fab_expandDirection}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionsMenu_fab_labelStyle ru.kazantsev.baseapp:fab_labelStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionsMenu_fab_labelsPosition ru.kazantsev.baseapp:fab_labelsPosition}</code></td><td></td></tr>
            </table>
            @see #FloatingActionsMenu_fab_addButtonColorNormal
            @see #FloatingActionsMenu_fab_addButtonColorPressed
@@ -5627,7 +5627,7 @@ containing a value of this type.
             0x7f01006a, 0x7f01006b, 0x7f01006c, 0x7f01006d
         };
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#fab_addButtonColorNormal}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#fab_addButtonColorNormal}
           attribute's value can be found in the {@link #FloatingActionsMenu} array.
 
 
@@ -5638,11 +5638,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.kazantsev.demoapp:fab_addButtonColorNormal
+          @attr name ru.kazantsev.baseapp:fab_addButtonColorNormal
         */
         public static final int FloatingActionsMenu_fab_addButtonColorNormal = 1;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#fab_addButtonColorPressed}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#fab_addButtonColorPressed}
           attribute's value can be found in the {@link #FloatingActionsMenu} array.
 
 
@@ -5653,11 +5653,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.kazantsev.demoapp:fab_addButtonColorPressed
+          @attr name ru.kazantsev.baseapp:fab_addButtonColorPressed
         */
         public static final int FloatingActionsMenu_fab_addButtonColorPressed = 0;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#fab_addButtonPlusIconColor}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#fab_addButtonPlusIconColor}
           attribute's value can be found in the {@link #FloatingActionsMenu} array.
 
 
@@ -5668,11 +5668,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.kazantsev.demoapp:fab_addButtonPlusIconColor
+          @attr name ru.kazantsev.baseapp:fab_addButtonPlusIconColor
         */
         public static final int FloatingActionsMenu_fab_addButtonPlusIconColor = 3;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#fab_addButtonSize}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#fab_addButtonSize}
           attribute's value can be found in the {@link #FloatingActionsMenu} array.
 
 
@@ -5685,11 +5685,11 @@ containing a value of this type.
 <tr><td><code>normal</code></td><td>0</td><td></td></tr>
 <tr><td><code>mini</code></td><td>1</td><td></td></tr>
 </table>
-          @attr name ru.kazantsev.demoapp:fab_addButtonSize
+          @attr name ru.kazantsev.baseapp:fab_addButtonSize
         */
         public static final int FloatingActionsMenu_fab_addButtonSize = 2;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#fab_addButtonStrokeVisible}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#fab_addButtonStrokeVisible}
           attribute's value can be found in the {@link #FloatingActionsMenu} array.
 
 
@@ -5699,11 +5699,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.kazantsev.demoapp:fab_addButtonStrokeVisible
+          @attr name ru.kazantsev.baseapp:fab_addButtonStrokeVisible
         */
         public static final int FloatingActionsMenu_fab_addButtonStrokeVisible = 4;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#fab_expandDirection}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#fab_expandDirection}
           attribute's value can be found in the {@link #FloatingActionsMenu} array.
 
 
@@ -5718,21 +5718,21 @@ containing a value of this type.
 <tr><td><code>left</code></td><td>2</td><td></td></tr>
 <tr><td><code>right</code></td><td>3</td><td></td></tr>
 </table>
-          @attr name ru.kazantsev.demoapp:fab_expandDirection
+          @attr name ru.kazantsev.baseapp:fab_expandDirection
         */
         public static final int FloatingActionsMenu_fab_expandDirection = 7;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#fab_labelStyle}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#fab_labelStyle}
           attribute's value can be found in the {@link #FloatingActionsMenu} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.kazantsev.demoapp:fab_labelStyle
+          @attr name ru.kazantsev.baseapp:fab_labelStyle
         */
         public static final int FloatingActionsMenu_fab_labelStyle = 5;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#fab_labelsPosition}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#fab_labelsPosition}
           attribute's value can be found in the {@link #FloatingActionsMenu} array.
 
 
@@ -5745,7 +5745,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>left</code></td><td>0</td><td></td></tr>
 <tr><td><code>right</code></td><td>1</td><td></td></tr>
 </table>
-          @attr name ru.kazantsev.demoapp:fab_labelsPosition
+          @attr name ru.kazantsev.baseapp:fab_labelsPosition
         */
         public static final int FloatingActionsMenu_fab_labelsPosition = 6;
         /** Attributes that can be used with a ForegroundLinearLayout.
@@ -5756,7 +5756,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #ForegroundLinearLayout_android_foreground android:foreground}</code></td><td></td></tr>
            <tr><td><code>{@link #ForegroundLinearLayout_android_foregroundGravity android:foregroundGravity}</code></td><td></td></tr>
-           <tr><td><code>{@link #ForegroundLinearLayout_foregroundInsidePadding ru.kazantsev.demoapp:foregroundInsidePadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #ForegroundLinearLayout_foregroundInsidePadding ru.kazantsev.baseapp:foregroundInsidePadding}</code></td><td></td></tr>
            </table>
            @see #ForegroundLinearLayout_android_foreground
            @see #ForegroundLinearLayout_android_foregroundGravity
@@ -5778,7 +5778,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int ForegroundLinearLayout_android_foregroundGravity = 1;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#foregroundInsidePadding}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#foregroundInsidePadding}
           attribute's value can be found in the {@link #ForegroundLinearLayout} array.
 
 
@@ -5788,7 +5788,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.kazantsev.demoapp:foregroundInsidePadding
+          @attr name ru.kazantsev.baseapp:foregroundInsidePadding
         */
         public static final int ForegroundLinearLayout_foregroundInsidePadding = 2;
         /** Attributes that can be used with a GridLayout.
@@ -5797,13 +5797,13 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #GridLayout_alignmentMode ru.kazantsev.demoapp:alignmentMode}</code></td><td></td></tr>
-           <tr><td><code>{@link #GridLayout_columnCount ru.kazantsev.demoapp:columnCount}</code></td><td></td></tr>
-           <tr><td><code>{@link #GridLayout_columnOrderPreserved ru.kazantsev.demoapp:columnOrderPreserved}</code></td><td></td></tr>
-           <tr><td><code>{@link #GridLayout_orientation ru.kazantsev.demoapp:orientation}</code></td><td></td></tr>
-           <tr><td><code>{@link #GridLayout_rowCount ru.kazantsev.demoapp:rowCount}</code></td><td></td></tr>
-           <tr><td><code>{@link #GridLayout_rowOrderPreserved ru.kazantsev.demoapp:rowOrderPreserved}</code></td><td></td></tr>
-           <tr><td><code>{@link #GridLayout_useDefaultMargins ru.kazantsev.demoapp:useDefaultMargins}</code></td><td></td></tr>
+           <tr><td><code>{@link #GridLayout_alignmentMode ru.kazantsev.baseapp:alignmentMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #GridLayout_columnCount ru.kazantsev.baseapp:columnCount}</code></td><td></td></tr>
+           <tr><td><code>{@link #GridLayout_columnOrderPreserved ru.kazantsev.baseapp:columnOrderPreserved}</code></td><td></td></tr>
+           <tr><td><code>{@link #GridLayout_orientation ru.kazantsev.baseapp:orientation}</code></td><td></td></tr>
+           <tr><td><code>{@link #GridLayout_rowCount ru.kazantsev.baseapp:rowCount}</code></td><td></td></tr>
+           <tr><td><code>{@link #GridLayout_rowOrderPreserved ru.kazantsev.baseapp:rowOrderPreserved}</code></td><td></td></tr>
+           <tr><td><code>{@link #GridLayout_useDefaultMargins ru.kazantsev.baseapp:useDefaultMargins}</code></td><td></td></tr>
            </table>
            @see #GridLayout_alignmentMode
            @see #GridLayout_columnCount
@@ -5818,7 +5818,7 @@ containing a value of this type.
             0x7f010073, 0x7f010074, 0x7f010075
         };
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#alignmentMode}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#alignmentMode}
           attribute's value can be found in the {@link #GridLayout} array.
 
 
@@ -5831,11 +5831,11 @@ containing a value of this type.
 <tr><td><code>alignBounds</code></td><td>0</td><td></td></tr>
 <tr><td><code>alignMargins</code></td><td>1</td><td></td></tr>
 </table>
-          @attr name ru.kazantsev.demoapp:alignmentMode
+          @attr name ru.kazantsev.baseapp:alignmentMode
         */
         public static final int GridLayout_alignmentMode = 4;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#columnCount}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#columnCount}
           attribute's value can be found in the {@link #GridLayout} array.
 
 
@@ -5845,11 +5845,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.kazantsev.demoapp:columnCount
+          @attr name ru.kazantsev.baseapp:columnCount
         */
         public static final int GridLayout_columnCount = 2;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#columnOrderPreserved}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#columnOrderPreserved}
           attribute's value can be found in the {@link #GridLayout} array.
 
 
@@ -5859,11 +5859,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.kazantsev.demoapp:columnOrderPreserved
+          @attr name ru.kazantsev.baseapp:columnOrderPreserved
         */
         public static final int GridLayout_columnOrderPreserved = 6;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#orientation}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#orientation}
           attribute's value can be found in the {@link #GridLayout} array.
 
 
@@ -5876,11 +5876,11 @@ containing a value of this type.
 <tr><td><code>horizontal</code></td><td>0</td><td></td></tr>
 <tr><td><code>vertical</code></td><td>1</td><td></td></tr>
 </table>
-          @attr name ru.kazantsev.demoapp:orientation
+          @attr name ru.kazantsev.baseapp:orientation
         */
         public static final int GridLayout_orientation = 0;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#rowCount}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#rowCount}
           attribute's value can be found in the {@link #GridLayout} array.
 
 
@@ -5890,11 +5890,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.kazantsev.demoapp:rowCount
+          @attr name ru.kazantsev.baseapp:rowCount
         */
         public static final int GridLayout_rowCount = 1;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#rowOrderPreserved}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#rowOrderPreserved}
           attribute's value can be found in the {@link #GridLayout} array.
 
 
@@ -5904,11 +5904,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.kazantsev.demoapp:rowOrderPreserved
+          @attr name ru.kazantsev.baseapp:rowOrderPreserved
         */
         public static final int GridLayout_rowOrderPreserved = 5;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#useDefaultMargins}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#useDefaultMargins}
           attribute's value can be found in the {@link #GridLayout} array.
 
 
@@ -5918,7 +5918,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.kazantsev.demoapp:useDefaultMargins
+          @attr name ru.kazantsev.baseapp:useDefaultMargins
         */
         public static final int GridLayout_useDefaultMargins = 3;
         /** Attributes that can be used with a GridLayout_Layout.
@@ -5934,13 +5934,13 @@ containing a value of this type.
            <tr><td><code>{@link #GridLayout_Layout_android_layout_marginRight android:layout_marginRight}</code></td><td></td></tr>
            <tr><td><code>{@link #GridLayout_Layout_android_layout_marginTop android:layout_marginTop}</code></td><td></td></tr>
            <tr><td><code>{@link #GridLayout_Layout_android_layout_width android:layout_width}</code></td><td></td></tr>
-           <tr><td><code>{@link #GridLayout_Layout_layout_column ru.kazantsev.demoapp:layout_column}</code></td><td></td></tr>
-           <tr><td><code>{@link #GridLayout_Layout_layout_columnSpan ru.kazantsev.demoapp:layout_columnSpan}</code></td><td></td></tr>
-           <tr><td><code>{@link #GridLayout_Layout_layout_columnWeight ru.kazantsev.demoapp:layout_columnWeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #GridLayout_Layout_layout_gravity ru.kazantsev.demoapp:layout_gravity}</code></td><td></td></tr>
-           <tr><td><code>{@link #GridLayout_Layout_layout_row ru.kazantsev.demoapp:layout_row}</code></td><td></td></tr>
-           <tr><td><code>{@link #GridLayout_Layout_layout_rowSpan ru.kazantsev.demoapp:layout_rowSpan}</code></td><td></td></tr>
-           <tr><td><code>{@link #GridLayout_Layout_layout_rowWeight ru.kazantsev.demoapp:layout_rowWeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #GridLayout_Layout_layout_column ru.kazantsev.baseapp:layout_column}</code></td><td></td></tr>
+           <tr><td><code>{@link #GridLayout_Layout_layout_columnSpan ru.kazantsev.baseapp:layout_columnSpan}</code></td><td></td></tr>
+           <tr><td><code>{@link #GridLayout_Layout_layout_columnWeight ru.kazantsev.baseapp:layout_columnWeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #GridLayout_Layout_layout_gravity ru.kazantsev.baseapp:layout_gravity}</code></td><td></td></tr>
+           <tr><td><code>{@link #GridLayout_Layout_layout_row ru.kazantsev.baseapp:layout_row}</code></td><td></td></tr>
+           <tr><td><code>{@link #GridLayout_Layout_layout_rowSpan ru.kazantsev.baseapp:layout_rowSpan}</code></td><td></td></tr>
+           <tr><td><code>{@link #GridLayout_Layout_layout_rowWeight ru.kazantsev.baseapp:layout_rowWeight}</code></td><td></td></tr>
            </table>
            @see #GridLayout_Layout_android_layout_height
            @see #GridLayout_Layout_android_layout_margin
@@ -6006,7 +6006,7 @@ containing a value of this type.
         */
         public static final int GridLayout_Layout_android_layout_width = 0;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#layout_column}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#layout_column}
           attribute's value can be found in the {@link #GridLayout_Layout} array.
 
 
@@ -6016,11 +6016,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.kazantsev.demoapp:layout_column
+          @attr name ru.kazantsev.baseapp:layout_column
         */
         public static final int GridLayout_Layout_layout_column = 10;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#layout_columnSpan}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#layout_columnSpan}
           attribute's value can be found in the {@link #GridLayout_Layout} array.
 
 
@@ -6030,11 +6030,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.kazantsev.demoapp:layout_columnSpan
+          @attr name ru.kazantsev.baseapp:layout_columnSpan
         */
         public static final int GridLayout_Layout_layout_columnSpan = 11;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#layout_columnWeight}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#layout_columnWeight}
           attribute's value can be found in the {@link #GridLayout_Layout} array.
 
 
@@ -6044,11 +6044,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.kazantsev.demoapp:layout_columnWeight
+          @attr name ru.kazantsev.baseapp:layout_columnWeight
         */
         public static final int GridLayout_Layout_layout_columnWeight = 12;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#layout_gravity}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#layout_gravity}
           attribute's value can be found in the {@link #GridLayout_Layout} array.
 
 
@@ -6073,11 +6073,11 @@ containing a value of this type.
 <tr><td><code>start</code></td><td>0x00800003</td><td></td></tr>
 <tr><td><code>end</code></td><td>0x00800005</td><td></td></tr>
 </table>
-          @attr name ru.kazantsev.demoapp:layout_gravity
+          @attr name ru.kazantsev.baseapp:layout_gravity
         */
         public static final int GridLayout_Layout_layout_gravity = 13;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#layout_row}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#layout_row}
           attribute's value can be found in the {@link #GridLayout_Layout} array.
 
 
@@ -6087,11 +6087,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.kazantsev.demoapp:layout_row
+          @attr name ru.kazantsev.baseapp:layout_row
         */
         public static final int GridLayout_Layout_layout_row = 7;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#layout_rowSpan}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#layout_rowSpan}
           attribute's value can be found in the {@link #GridLayout_Layout} array.
 
 
@@ -6101,11 +6101,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.kazantsev.demoapp:layout_rowSpan
+          @attr name ru.kazantsev.baseapp:layout_rowSpan
         */
         public static final int GridLayout_Layout_layout_rowSpan = 8;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#layout_rowWeight}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#layout_rowWeight}
           attribute's value can be found in the {@link #GridLayout_Layout} array.
 
 
@@ -6115,7 +6115,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.kazantsev.demoapp:layout_rowWeight
+          @attr name ru.kazantsev.baseapp:layout_rowWeight
         */
         public static final int GridLayout_Layout_layout_rowWeight = 9;
         /** Attributes that can be used with a LinearLayoutCompat.
@@ -6129,10 +6129,10 @@ containing a value of this type.
            <tr><td><code>{@link #LinearLayoutCompat_android_gravity android:gravity}</code></td><td></td></tr>
            <tr><td><code>{@link #LinearLayoutCompat_android_orientation android:orientation}</code></td><td></td></tr>
            <tr><td><code>{@link #LinearLayoutCompat_android_weightSum android:weightSum}</code></td><td></td></tr>
-           <tr><td><code>{@link #LinearLayoutCompat_divider ru.kazantsev.demoapp:divider}</code></td><td></td></tr>
-           <tr><td><code>{@link #LinearLayoutCompat_dividerPadding ru.kazantsev.demoapp:dividerPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #LinearLayoutCompat_measureWithLargestChild ru.kazantsev.demoapp:measureWithLargestChild}</code></td><td></td></tr>
-           <tr><td><code>{@link #LinearLayoutCompat_showDividers ru.kazantsev.demoapp:showDividers}</code></td><td></td></tr>
+           <tr><td><code>{@link #LinearLayoutCompat_divider ru.kazantsev.baseapp:divider}</code></td><td></td></tr>
+           <tr><td><code>{@link #LinearLayoutCompat_dividerPadding ru.kazantsev.baseapp:dividerPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #LinearLayoutCompat_measureWithLargestChild ru.kazantsev.baseapp:measureWithLargestChild}</code></td><td></td></tr>
+           <tr><td><code>{@link #LinearLayoutCompat_showDividers ru.kazantsev.baseapp:showDividers}</code></td><td></td></tr>
            </table>
            @see #LinearLayoutCompat_android_baselineAligned
            @see #LinearLayoutCompat_android_baselineAlignedChildIndex
@@ -6180,17 +6180,17 @@ containing a value of this type.
         */
         public static final int LinearLayoutCompat_android_weightSum = 4;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#divider}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#divider}
           attribute's value can be found in the {@link #LinearLayoutCompat} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.kazantsev.demoapp:divider
+          @attr name ru.kazantsev.baseapp:divider
         */
         public static final int LinearLayoutCompat_divider = 5;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#dividerPadding}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#dividerPadding}
           attribute's value can be found in the {@link #LinearLayoutCompat} array.
 
 
@@ -6202,11 +6202,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.kazantsev.demoapp:dividerPadding
+          @attr name ru.kazantsev.baseapp:dividerPadding
         */
         public static final int LinearLayoutCompat_dividerPadding = 8;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#measureWithLargestChild}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#measureWithLargestChild}
           attribute's value can be found in the {@link #LinearLayoutCompat} array.
 
 
@@ -6216,11 +6216,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.kazantsev.demoapp:measureWithLargestChild
+          @attr name ru.kazantsev.baseapp:measureWithLargestChild
         */
         public static final int LinearLayoutCompat_measureWithLargestChild = 6;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#showDividers}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#showDividers}
           attribute's value can be found in the {@link #LinearLayoutCompat} array.
 
 
@@ -6235,7 +6235,7 @@ containing a value of this type.
 <tr><td><code>middle</code></td><td>2</td><td></td></tr>
 <tr><td><code>end</code></td><td>4</td><td></td></tr>
 </table>
-          @attr name ru.kazantsev.demoapp:showDividers
+          @attr name ru.kazantsev.baseapp:showDividers
         */
         public static final int LinearLayoutCompat_showDividers = 7;
         /** Attributes that can be used with a LinearLayoutCompat_Layout.
@@ -6374,9 +6374,9 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #MenuItem_actionLayout ru.kazantsev.demoapp:actionLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuItem_actionProviderClass ru.kazantsev.demoapp:actionProviderClass}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuItem_actionViewClass ru.kazantsev.demoapp:actionViewClass}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuItem_actionLayout ru.kazantsev.baseapp:actionLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuItem_actionProviderClass ru.kazantsev.baseapp:actionProviderClass}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuItem_actionViewClass ru.kazantsev.baseapp:actionViewClass}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuItem_android_alphabeticShortcut android:alphabeticShortcut}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuItem_android_checkable android:checkable}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuItem_android_checked android:checked}</code></td><td></td></tr>
@@ -6390,7 +6390,7 @@ containing a value of this type.
            <tr><td><code>{@link #MenuItem_android_title android:title}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuItem_android_titleCondensed android:titleCondensed}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuItem_android_visible android:visible}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuItem_showAsAction ru.kazantsev.demoapp:showAsAction}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuItem_showAsAction ru.kazantsev.baseapp:showAsAction}</code></td><td></td></tr>
            </table>
            @see #MenuItem_actionLayout
            @see #MenuItem_actionProviderClass
@@ -6418,17 +6418,17 @@ containing a value of this type.
             0x7f010083
         };
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#actionLayout}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#actionLayout}
           attribute's value can be found in the {@link #MenuItem} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.kazantsev.demoapp:actionLayout
+          @attr name ru.kazantsev.baseapp:actionLayout
         */
         public static final int MenuItem_actionLayout = 14;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#actionProviderClass}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#actionProviderClass}
           attribute's value can be found in the {@link #MenuItem} array.
 
 
@@ -6438,11 +6438,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.kazantsev.demoapp:actionProviderClass
+          @attr name ru.kazantsev.baseapp:actionProviderClass
         */
         public static final int MenuItem_actionProviderClass = 16;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#actionViewClass}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#actionViewClass}
           attribute's value can be found in the {@link #MenuItem} array.
 
 
@@ -6452,7 +6452,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.kazantsev.demoapp:actionViewClass
+          @attr name ru.kazantsev.baseapp:actionViewClass
         */
         public static final int MenuItem_actionViewClass = 15;
         /**
@@ -6534,7 +6534,7 @@ containing a value of this type.
         */
         public static final int MenuItem_android_visible = 4;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#showAsAction}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#showAsAction}
           attribute's value can be found in the {@link #MenuItem} array.
 
 
@@ -6550,7 +6550,7 @@ containing a value of this type.
 <tr><td><code>withText</code></td><td>4</td><td></td></tr>
 <tr><td><code>collapseActionView</code></td><td>8</td><td></td></tr>
 </table>
-          @attr name ru.kazantsev.demoapp:showAsAction
+          @attr name ru.kazantsev.baseapp:showAsAction
         */
         public static final int MenuItem_showAsAction = 13;
         /** Attributes that can be used with a MenuView.
@@ -6566,7 +6566,7 @@ containing a value of this type.
            <tr><td><code>{@link #MenuView_android_itemTextAppearance android:itemTextAppearance}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuView_android_verticalDivider android:verticalDivider}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuView_android_windowAnimationStyle android:windowAnimationStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuView_preserveIconSpacing ru.kazantsev.demoapp:preserveIconSpacing}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuView_preserveIconSpacing ru.kazantsev.baseapp:preserveIconSpacing}</code></td><td></td></tr>
            </table>
            @see #MenuView_android_headerBackground
            @see #MenuView_android_horizontalDivider
@@ -6624,7 +6624,7 @@ containing a value of this type.
         */
         public static final int MenuView_android_windowAnimationStyle = 0;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#preserveIconSpacing}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#preserveIconSpacing}
           attribute's value can be found in the {@link #MenuView} array.
 
 
@@ -6634,7 +6634,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.kazantsev.demoapp:preserveIconSpacing
+          @attr name ru.kazantsev.baseapp:preserveIconSpacing
         */
         public static final int MenuView_preserveIconSpacing = 7;
         /** Attributes that can be used with a NavigationView.
@@ -6646,13 +6646,13 @@ containing a value of this type.
            <tr><td><code>{@link #NavigationView_android_background android:background}</code></td><td></td></tr>
            <tr><td><code>{@link #NavigationView_android_fitsSystemWindows android:fitsSystemWindows}</code></td><td></td></tr>
            <tr><td><code>{@link #NavigationView_android_maxWidth android:maxWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #NavigationView_elevation ru.kazantsev.demoapp:elevation}</code></td><td></td></tr>
-           <tr><td><code>{@link #NavigationView_headerLayout ru.kazantsev.demoapp:headerLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #NavigationView_itemBackground ru.kazantsev.demoapp:itemBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #NavigationView_itemIconTint ru.kazantsev.demoapp:itemIconTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #NavigationView_itemTextAppearance ru.kazantsev.demoapp:itemTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #NavigationView_itemTextColor ru.kazantsev.demoapp:itemTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #NavigationView_menu ru.kazantsev.demoapp:menu}</code></td><td></td></tr>
+           <tr><td><code>{@link #NavigationView_elevation ru.kazantsev.baseapp:elevation}</code></td><td></td></tr>
+           <tr><td><code>{@link #NavigationView_headerLayout ru.kazantsev.baseapp:headerLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #NavigationView_itemBackground ru.kazantsev.baseapp:itemBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #NavigationView_itemIconTint ru.kazantsev.baseapp:itemIconTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #NavigationView_itemTextAppearance ru.kazantsev.baseapp:itemTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #NavigationView_itemTextColor ru.kazantsev.baseapp:itemTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #NavigationView_menu ru.kazantsev.baseapp:menu}</code></td><td></td></tr>
            </table>
            @see #NavigationView_android_background
            @see #NavigationView_android_fitsSystemWindows
@@ -6689,7 +6689,7 @@ containing a value of this type.
         */
         public static final int NavigationView_android_maxWidth = 2;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#elevation}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#elevation}
           attribute's value can be found in the {@link #NavigationView} array.
 
 
@@ -6701,31 +6701,31 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.kazantsev.demoapp:elevation
+          @attr name ru.kazantsev.baseapp:elevation
         */
         public static final int NavigationView_elevation = 3;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#headerLayout}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#headerLayout}
           attribute's value can be found in the {@link #NavigationView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.kazantsev.demoapp:headerLayout
+          @attr name ru.kazantsev.baseapp:headerLayout
         */
         public static final int NavigationView_headerLayout = 9;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#itemBackground}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#itemBackground}
           attribute's value can be found in the {@link #NavigationView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.kazantsev.demoapp:itemBackground
+          @attr name ru.kazantsev.baseapp:itemBackground
         */
         public static final int NavigationView_itemBackground = 7;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#itemIconTint}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#itemIconTint}
           attribute's value can be found in the {@link #NavigationView} array.
 
 
@@ -6736,21 +6736,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.kazantsev.demoapp:itemIconTint
+          @attr name ru.kazantsev.baseapp:itemIconTint
         */
         public static final int NavigationView_itemIconTint = 5;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#itemTextAppearance}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#itemTextAppearance}
           attribute's value can be found in the {@link #NavigationView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.kazantsev.demoapp:itemTextAppearance
+          @attr name ru.kazantsev.baseapp:itemTextAppearance
         */
         public static final int NavigationView_itemTextAppearance = 8;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#itemTextColor}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#itemTextColor}
           attribute's value can be found in the {@link #NavigationView} array.
 
 
@@ -6761,17 +6761,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.kazantsev.demoapp:itemTextColor
+          @attr name ru.kazantsev.baseapp:itemTextColor
         */
         public static final int NavigationView_itemTextColor = 6;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#menu}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#menu}
           attribute's value can be found in the {@link #NavigationView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.kazantsev.demoapp:menu
+          @attr name ru.kazantsev.baseapp:menu
         */
         public static final int NavigationView_menu = 4;
         /** Attributes that can be used with a PopupWindow.
@@ -6781,7 +6781,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #PopupWindow_android_popupBackground android:popupBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #PopupWindow_overlapAnchor ru.kazantsev.demoapp:overlapAnchor}</code></td><td></td></tr>
+           <tr><td><code>{@link #PopupWindow_overlapAnchor ru.kazantsev.baseapp:overlapAnchor}</code></td><td></td></tr>
            </table>
            @see #PopupWindow_android_popupBackground
            @see #PopupWindow_overlapAnchor
@@ -6796,7 +6796,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int PopupWindow_android_popupBackground = 0;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#overlapAnchor}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#overlapAnchor}
           attribute's value can be found in the {@link #PopupWindow} array.
 
 
@@ -6806,7 +6806,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.kazantsev.demoapp:overlapAnchor
+          @attr name ru.kazantsev.baseapp:overlapAnchor
         */
         public static final int PopupWindow_overlapAnchor = 1;
         /** Attributes that can be used with a PopupWindowBackgroundState.
@@ -6815,7 +6815,7 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #PopupWindowBackgroundState_state_above_anchor ru.kazantsev.demoapp:state_above_anchor}</code></td><td></td></tr>
+           <tr><td><code>{@link #PopupWindowBackgroundState_state_above_anchor ru.kazantsev.baseapp:state_above_anchor}</code></td><td></td></tr>
            </table>
            @see #PopupWindowBackgroundState_state_above_anchor
          */
@@ -6823,7 +6823,7 @@ containing a value of this type.
             0x7f01008c
         };
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#state_above_anchor}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#state_above_anchor}
           attribute's value can be found in the {@link #PopupWindowBackgroundState} array.
 
 
@@ -6833,7 +6833,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.kazantsev.demoapp:state_above_anchor
+          @attr name ru.kazantsev.baseapp:state_above_anchor
         */
         public static final int PopupWindowBackgroundState_state_above_anchor = 0;
         /** Attributes that can be used with a RecyclerView.
@@ -6843,10 +6843,10 @@ containing a value of this type.
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #RecyclerView_android_orientation android:orientation}</code></td><td></td></tr>
-           <tr><td><code>{@link #RecyclerView_layoutManager ru.kazantsev.demoapp:layoutManager}</code></td><td></td></tr>
-           <tr><td><code>{@link #RecyclerView_reverseLayout ru.kazantsev.demoapp:reverseLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #RecyclerView_spanCount ru.kazantsev.demoapp:spanCount}</code></td><td></td></tr>
-           <tr><td><code>{@link #RecyclerView_stackFromEnd ru.kazantsev.demoapp:stackFromEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #RecyclerView_layoutManager ru.kazantsev.baseapp:layoutManager}</code></td><td></td></tr>
+           <tr><td><code>{@link #RecyclerView_reverseLayout ru.kazantsev.baseapp:reverseLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #RecyclerView_spanCount ru.kazantsev.baseapp:spanCount}</code></td><td></td></tr>
+           <tr><td><code>{@link #RecyclerView_stackFromEnd ru.kazantsev.baseapp:stackFromEnd}</code></td><td></td></tr>
            </table>
            @see #RecyclerView_android_orientation
            @see #RecyclerView_layoutManager
@@ -6865,7 +6865,7 @@ containing a value of this type.
         */
         public static final int RecyclerView_android_orientation = 0;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#layoutManager}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#layoutManager}
           attribute's value can be found in the {@link #RecyclerView} array.
 
 
@@ -6875,11 +6875,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.kazantsev.demoapp:layoutManager
+          @attr name ru.kazantsev.baseapp:layoutManager
         */
         public static final int RecyclerView_layoutManager = 1;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#reverseLayout}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#reverseLayout}
           attribute's value can be found in the {@link #RecyclerView} array.
 
 
@@ -6889,11 +6889,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.kazantsev.demoapp:reverseLayout
+          @attr name ru.kazantsev.baseapp:reverseLayout
         */
         public static final int RecyclerView_reverseLayout = 3;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#spanCount}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#spanCount}
           attribute's value can be found in the {@link #RecyclerView} array.
 
 
@@ -6903,11 +6903,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.kazantsev.demoapp:spanCount
+          @attr name ru.kazantsev.baseapp:spanCount
         */
         public static final int RecyclerView_spanCount = 2;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#stackFromEnd}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#stackFromEnd}
           attribute's value can be found in the {@link #RecyclerView} array.
 
 
@@ -6917,7 +6917,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.kazantsev.demoapp:stackFromEnd
+          @attr name ru.kazantsev.baseapp:stackFromEnd
         */
         public static final int RecyclerView_stackFromEnd = 4;
         /** Attributes that can be used with a ScrimInsetsFrameLayout.
@@ -6926,7 +6926,7 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ScrimInsetsFrameLayout_insetForeground ru.kazantsev.demoapp:insetForeground}</code></td><td></td></tr>
+           <tr><td><code>{@link #ScrimInsetsFrameLayout_insetForeground ru.kazantsev.baseapp:insetForeground}</code></td><td></td></tr>
            </table>
            @see #ScrimInsetsFrameLayout_insetForeground
          */
@@ -6934,7 +6934,7 @@ containing a value of this type.
             0x7f010091
         };
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#insetForeground}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#insetForeground}
           attribute's value can be found in the {@link #ScrimInsetsFrameLayout} array.
 
 
@@ -6942,7 +6942,7 @@ containing a value of this type.
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name ru.kazantsev.demoapp:insetForeground
+          @attr name ru.kazantsev.baseapp:insetForeground
         */
         public static final int ScrimInsetsFrameLayout_insetForeground = 0;
         /** Attributes that can be used with a ScrollingViewBehavior_Params.
@@ -6951,7 +6951,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ScrollingViewBehavior_Params_behavior_overlapTop ru.kazantsev.demoapp:behavior_overlapTop}</code></td><td></td></tr>
+           <tr><td><code>{@link #ScrollingViewBehavior_Params_behavior_overlapTop ru.kazantsev.baseapp:behavior_overlapTop}</code></td><td></td></tr>
            </table>
            @see #ScrollingViewBehavior_Params_behavior_overlapTop
          */
@@ -6959,7 +6959,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f010092
         };
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#behavior_overlapTop}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#behavior_overlapTop}
           attribute's value can be found in the {@link #ScrollingViewBehavior_Params} array.
 
 
@@ -6971,7 +6971,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.kazantsev.demoapp:behavior_overlapTop
+          @attr name ru.kazantsev.baseapp:behavior_overlapTop
         */
         public static final int ScrollingViewBehavior_Params_behavior_overlapTop = 0;
         /** Attributes that can be used with a SearchView.
@@ -6984,19 +6984,19 @@ containing a value of this type.
            <tr><td><code>{@link #SearchView_android_imeOptions android:imeOptions}</code></td><td></td></tr>
            <tr><td><code>{@link #SearchView_android_inputType android:inputType}</code></td><td></td></tr>
            <tr><td><code>{@link #SearchView_android_maxWidth android:maxWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_closeIcon ru.kazantsev.demoapp:closeIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_commitIcon ru.kazantsev.demoapp:commitIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_defaultQueryHint ru.kazantsev.demoapp:defaultQueryHint}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_goIcon ru.kazantsev.demoapp:goIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_iconifiedByDefault ru.kazantsev.demoapp:iconifiedByDefault}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_layout ru.kazantsev.demoapp:layout}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_queryBackground ru.kazantsev.demoapp:queryBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_queryHint ru.kazantsev.demoapp:queryHint}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_searchHintIcon ru.kazantsev.demoapp:searchHintIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_searchIcon ru.kazantsev.demoapp:searchIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_submitBackground ru.kazantsev.demoapp:submitBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_suggestionRowLayout ru.kazantsev.demoapp:suggestionRowLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_voiceIcon ru.kazantsev.demoapp:voiceIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_closeIcon ru.kazantsev.baseapp:closeIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_commitIcon ru.kazantsev.baseapp:commitIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_defaultQueryHint ru.kazantsev.baseapp:defaultQueryHint}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_goIcon ru.kazantsev.baseapp:goIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_iconifiedByDefault ru.kazantsev.baseapp:iconifiedByDefault}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_layout ru.kazantsev.baseapp:layout}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_queryBackground ru.kazantsev.baseapp:queryBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_queryHint ru.kazantsev.baseapp:queryHint}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_searchHintIcon ru.kazantsev.baseapp:searchHintIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_searchIcon ru.kazantsev.baseapp:searchIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_submitBackground ru.kazantsev.baseapp:submitBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_suggestionRowLayout ru.kazantsev.baseapp:suggestionRowLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_voiceIcon ru.kazantsev.baseapp:voiceIcon}</code></td><td></td></tr>
            </table>
            @see #SearchView_android_focusable
            @see #SearchView_android_imeOptions
@@ -7048,27 +7048,27 @@ containing a value of this type.
         */
         public static final int SearchView_android_maxWidth = 1;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#closeIcon}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#closeIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.kazantsev.demoapp:closeIcon
+          @attr name ru.kazantsev.baseapp:closeIcon
         */
         public static final int SearchView_closeIcon = 8;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#commitIcon}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#commitIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.kazantsev.demoapp:commitIcon
+          @attr name ru.kazantsev.baseapp:commitIcon
         */
         public static final int SearchView_commitIcon = 13;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#defaultQueryHint}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#defaultQueryHint}
           attribute's value can be found in the {@link #SearchView} array.
 
 
@@ -7078,21 +7078,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.kazantsev.demoapp:defaultQueryHint
+          @attr name ru.kazantsev.baseapp:defaultQueryHint
         */
         public static final int SearchView_defaultQueryHint = 7;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#goIcon}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#goIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.kazantsev.demoapp:goIcon
+          @attr name ru.kazantsev.baseapp:goIcon
         */
         public static final int SearchView_goIcon = 9;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#iconifiedByDefault}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#iconifiedByDefault}
           attribute's value can be found in the {@link #SearchView} array.
 
 
@@ -7102,31 +7102,31 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.kazantsev.demoapp:iconifiedByDefault
+          @attr name ru.kazantsev.baseapp:iconifiedByDefault
         */
         public static final int SearchView_iconifiedByDefault = 5;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#layout}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#layout}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.kazantsev.demoapp:layout
+          @attr name ru.kazantsev.baseapp:layout
         */
         public static final int SearchView_layout = 4;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#queryBackground}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#queryBackground}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.kazantsev.demoapp:queryBackground
+          @attr name ru.kazantsev.baseapp:queryBackground
         */
         public static final int SearchView_queryBackground = 15;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#queryHint}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#queryHint}
           attribute's value can be found in the {@link #SearchView} array.
 
 
@@ -7136,57 +7136,57 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.kazantsev.demoapp:queryHint
+          @attr name ru.kazantsev.baseapp:queryHint
         */
         public static final int SearchView_queryHint = 6;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#searchHintIcon}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#searchHintIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.kazantsev.demoapp:searchHintIcon
+          @attr name ru.kazantsev.baseapp:searchHintIcon
         */
         public static final int SearchView_searchHintIcon = 11;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#searchIcon}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#searchIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.kazantsev.demoapp:searchIcon
+          @attr name ru.kazantsev.baseapp:searchIcon
         */
         public static final int SearchView_searchIcon = 10;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#submitBackground}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#submitBackground}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.kazantsev.demoapp:submitBackground
+          @attr name ru.kazantsev.baseapp:submitBackground
         */
         public static final int SearchView_submitBackground = 16;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#suggestionRowLayout}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#suggestionRowLayout}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.kazantsev.demoapp:suggestionRowLayout
+          @attr name ru.kazantsev.baseapp:suggestionRowLayout
         */
         public static final int SearchView_suggestionRowLayout = 14;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#voiceIcon}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#voiceIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.kazantsev.demoapp:voiceIcon
+          @attr name ru.kazantsev.baseapp:voiceIcon
         */
         public static final int SearchView_voiceIcon = 12;
         /** Attributes that can be used with a SectionTitleIndicator.
@@ -7195,8 +7195,8 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #SectionTitleIndicator_rfs_backgroundColor ru.kazantsev.demoapp:rfs_backgroundColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #SectionTitleIndicator_rfs_textColor ru.kazantsev.demoapp:rfs_textColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #SectionTitleIndicator_rfs_backgroundColor ru.kazantsev.baseapp:rfs_backgroundColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #SectionTitleIndicator_rfs_textColor ru.kazantsev.baseapp:rfs_textColor}</code></td><td></td></tr>
            </table>
            @see #SectionTitleIndicator_rfs_backgroundColor
            @see #SectionTitleIndicator_rfs_textColor
@@ -7205,7 +7205,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f0100a0, 0x7f0100a1
         };
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#rfs_backgroundColor}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#rfs_backgroundColor}
           attribute's value can be found in the {@link #SectionTitleIndicator} array.
 
 
@@ -7213,11 +7213,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name ru.kazantsev.demoapp:rfs_backgroundColor
+          @attr name ru.kazantsev.baseapp:rfs_backgroundColor
         */
         public static final int SectionTitleIndicator_rfs_backgroundColor = 1;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#rfs_textColor}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#rfs_textColor}
           attribute's value can be found in the {@link #SectionTitleIndicator} array.
 
 
@@ -7225,7 +7225,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name ru.kazantsev.demoapp:rfs_textColor
+          @attr name ru.kazantsev.baseapp:rfs_textColor
         */
         public static final int SectionTitleIndicator_rfs_textColor = 0;
         /** Attributes that can be used with a SnackbarLayout.
@@ -7235,8 +7235,8 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #SnackbarLayout_android_maxWidth android:maxWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #SnackbarLayout_elevation ru.kazantsev.demoapp:elevation}</code></td><td></td></tr>
-           <tr><td><code>{@link #SnackbarLayout_maxActionInlineWidth ru.kazantsev.demoapp:maxActionInlineWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #SnackbarLayout_elevation ru.kazantsev.baseapp:elevation}</code></td><td></td></tr>
+           <tr><td><code>{@link #SnackbarLayout_maxActionInlineWidth ru.kazantsev.baseapp:maxActionInlineWidth}</code></td><td></td></tr>
            </table>
            @see #SnackbarLayout_android_maxWidth
            @see #SnackbarLayout_elevation
@@ -7252,7 +7252,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int SnackbarLayout_android_maxWidth = 0;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#elevation}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#elevation}
           attribute's value can be found in the {@link #SnackbarLayout} array.
 
 
@@ -7264,11 +7264,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.kazantsev.demoapp:elevation
+          @attr name ru.kazantsev.baseapp:elevation
         */
         public static final int SnackbarLayout_elevation = 1;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#maxActionInlineWidth}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#maxActionInlineWidth}
           attribute's value can be found in the {@link #SnackbarLayout} array.
 
 
@@ -7280,7 +7280,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.kazantsev.demoapp:maxActionInlineWidth
+          @attr name ru.kazantsev.baseapp:maxActionInlineWidth
         */
         public static final int SnackbarLayout_maxActionInlineWidth = 2;
         /** Attributes that can be used with a Spinner.
@@ -7292,7 +7292,7 @@ containing a value of this type.
            <tr><td><code>{@link #Spinner_android_dropDownWidth android:dropDownWidth}</code></td><td></td></tr>
            <tr><td><code>{@link #Spinner_android_popupBackground android:popupBackground}</code></td><td></td></tr>
            <tr><td><code>{@link #Spinner_android_prompt android:prompt}</code></td><td></td></tr>
-           <tr><td><code>{@link #Spinner_popupTheme ru.kazantsev.demoapp:popupTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #Spinner_popupTheme ru.kazantsev.baseapp:popupTheme}</code></td><td></td></tr>
            </table>
            @see #Spinner_android_dropDownWidth
            @see #Spinner_android_popupBackground
@@ -7321,13 +7321,13 @@ containing a value of this type.
         */
         public static final int Spinner_android_prompt = 1;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#popupTheme}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#popupTheme}
           attribute's value can be found in the {@link #Spinner} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.kazantsev.demoapp:popupTheme
+          @attr name ru.kazantsev.baseapp:popupTheme
         */
         public static final int Spinner_popupTheme = 3;
         /** Attributes that can be used with a SwitchCompat.
@@ -7339,13 +7339,13 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <tr><td><code>{@link #SwitchCompat_android_textOff android:textOff}</code></td><td></td></tr>
            <tr><td><code>{@link #SwitchCompat_android_textOn android:textOn}</code></td><td></td></tr>
            <tr><td><code>{@link #SwitchCompat_android_thumb android:thumb}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_showText ru.kazantsev.demoapp:showText}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_splitTrack ru.kazantsev.demoapp:splitTrack}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_switchMinWidth ru.kazantsev.demoapp:switchMinWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_switchPadding ru.kazantsev.demoapp:switchPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_switchTextAppearance ru.kazantsev.demoapp:switchTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_thumbTextPadding ru.kazantsev.demoapp:thumbTextPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_track ru.kazantsev.demoapp:track}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_showText ru.kazantsev.baseapp:showText}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_splitTrack ru.kazantsev.baseapp:splitTrack}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_switchMinWidth ru.kazantsev.baseapp:switchMinWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_switchPadding ru.kazantsev.baseapp:switchPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_switchTextAppearance ru.kazantsev.baseapp:switchTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_thumbTextPadding ru.kazantsev.baseapp:thumbTextPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_track ru.kazantsev.baseapp:track}</code></td><td></td></tr>
            </table>
            @see #SwitchCompat_android_textOff
            @see #SwitchCompat_android_textOn
@@ -7382,7 +7382,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int SwitchCompat_android_thumb = 2;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#showText}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#showText}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -7392,11 +7392,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.kazantsev.demoapp:showText
+          @attr name ru.kazantsev.baseapp:showText
         */
         public static final int SwitchCompat_showText = 9;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#splitTrack}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#splitTrack}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -7406,11 +7406,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.kazantsev.demoapp:splitTrack
+          @attr name ru.kazantsev.baseapp:splitTrack
         */
         public static final int SwitchCompat_splitTrack = 8;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#switchMinWidth}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#switchMinWidth}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -7422,11 +7422,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.kazantsev.demoapp:switchMinWidth
+          @attr name ru.kazantsev.baseapp:switchMinWidth
         */
         public static final int SwitchCompat_switchMinWidth = 6;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#switchPadding}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#switchPadding}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -7438,21 +7438,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.kazantsev.demoapp:switchPadding
+          @attr name ru.kazantsev.baseapp:switchPadding
         */
         public static final int SwitchCompat_switchPadding = 7;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#switchTextAppearance}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#switchTextAppearance}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.kazantsev.demoapp:switchTextAppearance
+          @attr name ru.kazantsev.baseapp:switchTextAppearance
         */
         public static final int SwitchCompat_switchTextAppearance = 5;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#thumbTextPadding}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#thumbTextPadding}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -7464,17 +7464,17 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.kazantsev.demoapp:thumbTextPadding
+          @attr name ru.kazantsev.baseapp:thumbTextPadding
         */
         public static final int SwitchCompat_thumbTextPadding = 4;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#track}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#track}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.kazantsev.demoapp:track
+          @attr name ru.kazantsev.baseapp:track
         */
         public static final int SwitchCompat_track = 3;
         /** Attributes that can be used with a TabLayout.
@@ -7483,22 +7483,22 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #TabLayout_tabBackground ru.kazantsev.demoapp:tabBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabContentStart ru.kazantsev.demoapp:tabContentStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabGravity ru.kazantsev.demoapp:tabGravity}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabIndicatorColor ru.kazantsev.demoapp:tabIndicatorColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabIndicatorHeight ru.kazantsev.demoapp:tabIndicatorHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabMaxWidth ru.kazantsev.demoapp:tabMaxWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabMinWidth ru.kazantsev.demoapp:tabMinWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabMode ru.kazantsev.demoapp:tabMode}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabPadding ru.kazantsev.demoapp:tabPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabPaddingBottom ru.kazantsev.demoapp:tabPaddingBottom}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabPaddingEnd ru.kazantsev.demoapp:tabPaddingEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabPaddingStart ru.kazantsev.demoapp:tabPaddingStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabPaddingTop ru.kazantsev.demoapp:tabPaddingTop}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabSelectedTextColor ru.kazantsev.demoapp:tabSelectedTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabTextAppearance ru.kazantsev.demoapp:tabTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabTextColor ru.kazantsev.demoapp:tabTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabBackground ru.kazantsev.baseapp:tabBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabContentStart ru.kazantsev.baseapp:tabContentStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabGravity ru.kazantsev.baseapp:tabGravity}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabIndicatorColor ru.kazantsev.baseapp:tabIndicatorColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabIndicatorHeight ru.kazantsev.baseapp:tabIndicatorHeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabMaxWidth ru.kazantsev.baseapp:tabMaxWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabMinWidth ru.kazantsev.baseapp:tabMinWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabMode ru.kazantsev.baseapp:tabMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabPadding ru.kazantsev.baseapp:tabPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabPaddingBottom ru.kazantsev.baseapp:tabPaddingBottom}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabPaddingEnd ru.kazantsev.baseapp:tabPaddingEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabPaddingStart ru.kazantsev.baseapp:tabPaddingStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabPaddingTop ru.kazantsev.baseapp:tabPaddingTop}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabSelectedTextColor ru.kazantsev.baseapp:tabSelectedTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabTextAppearance ru.kazantsev.baseapp:tabTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabTextColor ru.kazantsev.baseapp:tabTextColor}</code></td><td></td></tr>
            </table>
            @see #TabLayout_tabBackground
            @see #TabLayout_tabContentStart
@@ -7524,17 +7524,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f0100b6, 0x7f0100b7, 0x7f0100b8, 0x7f0100b9
         };
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#tabBackground}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#tabBackground}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.kazantsev.demoapp:tabBackground
+          @attr name ru.kazantsev.baseapp:tabBackground
         */
         public static final int TabLayout_tabBackground = 3;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#tabContentStart}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#tabContentStart}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -7546,11 +7546,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.kazantsev.demoapp:tabContentStart
+          @attr name ru.kazantsev.baseapp:tabContentStart
         */
         public static final int TabLayout_tabContentStart = 2;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#tabGravity}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#tabGravity}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -7563,11 +7563,11 @@ containing a value of this type.
 <tr><td><code>fill</code></td><td>0</td><td></td></tr>
 <tr><td><code>center</code></td><td>1</td><td></td></tr>
 </table>
-          @attr name ru.kazantsev.demoapp:tabGravity
+          @attr name ru.kazantsev.baseapp:tabGravity
         */
         public static final int TabLayout_tabGravity = 5;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#tabIndicatorColor}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#tabIndicatorColor}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -7578,11 +7578,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.kazantsev.demoapp:tabIndicatorColor
+          @attr name ru.kazantsev.baseapp:tabIndicatorColor
         */
         public static final int TabLayout_tabIndicatorColor = 0;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#tabIndicatorHeight}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#tabIndicatorHeight}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -7594,11 +7594,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.kazantsev.demoapp:tabIndicatorHeight
+          @attr name ru.kazantsev.baseapp:tabIndicatorHeight
         */
         public static final int TabLayout_tabIndicatorHeight = 1;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#tabMaxWidth}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#tabMaxWidth}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -7610,11 +7610,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.kazantsev.demoapp:tabMaxWidth
+          @attr name ru.kazantsev.baseapp:tabMaxWidth
         */
         public static final int TabLayout_tabMaxWidth = 7;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#tabMinWidth}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#tabMinWidth}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -7626,11 +7626,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.kazantsev.demoapp:tabMinWidth
+          @attr name ru.kazantsev.baseapp:tabMinWidth
         */
         public static final int TabLayout_tabMinWidth = 6;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#tabMode}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#tabMode}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -7643,11 +7643,11 @@ containing a value of this type.
 <tr><td><code>scrollable</code></td><td>0</td><td></td></tr>
 <tr><td><code>fixed</code></td><td>1</td><td></td></tr>
 </table>
-          @attr name ru.kazantsev.demoapp:tabMode
+          @attr name ru.kazantsev.baseapp:tabMode
         */
         public static final int TabLayout_tabMode = 4;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#tabPadding}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#tabPadding}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -7659,11 +7659,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.kazantsev.demoapp:tabPadding
+          @attr name ru.kazantsev.baseapp:tabPadding
         */
         public static final int TabLayout_tabPadding = 15;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#tabPaddingBottom}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#tabPaddingBottom}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -7675,11 +7675,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.kazantsev.demoapp:tabPaddingBottom
+          @attr name ru.kazantsev.baseapp:tabPaddingBottom
         */
         public static final int TabLayout_tabPaddingBottom = 14;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#tabPaddingEnd}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#tabPaddingEnd}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -7691,11 +7691,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.kazantsev.demoapp:tabPaddingEnd
+          @attr name ru.kazantsev.baseapp:tabPaddingEnd
         */
         public static final int TabLayout_tabPaddingEnd = 13;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#tabPaddingStart}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#tabPaddingStart}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -7707,11 +7707,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.kazantsev.demoapp:tabPaddingStart
+          @attr name ru.kazantsev.baseapp:tabPaddingStart
         */
         public static final int TabLayout_tabPaddingStart = 11;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#tabPaddingTop}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#tabPaddingTop}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -7723,11 +7723,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.kazantsev.demoapp:tabPaddingTop
+          @attr name ru.kazantsev.baseapp:tabPaddingTop
         */
         public static final int TabLayout_tabPaddingTop = 12;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#tabSelectedTextColor}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#tabSelectedTextColor}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -7738,21 +7738,21 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.kazantsev.demoapp:tabSelectedTextColor
+          @attr name ru.kazantsev.baseapp:tabSelectedTextColor
         */
         public static final int TabLayout_tabSelectedTextColor = 10;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#tabTextAppearance}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#tabTextAppearance}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.kazantsev.demoapp:tabTextAppearance
+          @attr name ru.kazantsev.baseapp:tabTextAppearance
         */
         public static final int TabLayout_tabTextAppearance = 8;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#tabTextColor}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#tabTextColor}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -7763,7 +7763,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.kazantsev.demoapp:tabTextColor
+          @attr name ru.kazantsev.baseapp:tabTextColor
         */
         public static final int TabLayout_tabTextColor = 9;
         /** Attributes that can be used with a TextAppearance.
@@ -7780,7 +7780,7 @@ containing a value of this type.
            <tr><td><code>{@link #TextAppearance_android_textSize android:textSize}</code></td><td></td></tr>
            <tr><td><code>{@link #TextAppearance_android_textStyle android:textStyle}</code></td><td></td></tr>
            <tr><td><code>{@link #TextAppearance_android_typeface android:typeface}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextAppearance_textAllCaps ru.kazantsev.demoapp:textAllCaps}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextAppearance_textAllCaps ru.kazantsev.baseapp:textAllCaps}</code></td><td></td></tr>
            </table>
            @see #TextAppearance_android_shadowColor
            @see #TextAppearance_android_shadowDx
@@ -7846,14 +7846,14 @@ containing a value of this type.
         */
         public static final int TextAppearance_android_typeface = 1;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#textAllCaps}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#textAllCaps}
           attribute's value can be found in the {@link #TextAppearance} array.
 
 
           <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a boolean value, either "<code>true</code>" or "<code>false</code>".
-          @attr name ru.kazantsev.demoapp:textAllCaps
+          @attr name ru.kazantsev.baseapp:textAllCaps
         */
         public static final int TextAppearance_textAllCaps = 8;
         /** Attributes that can be used with a TextInputLayout.
@@ -7864,14 +7864,14 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #TextInputLayout_android_hint android:hint}</code></td><td></td></tr>
            <tr><td><code>{@link #TextInputLayout_android_textColorHint android:textColorHint}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_counterEnabled ru.kazantsev.demoapp:counterEnabled}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_counterMaxLength ru.kazantsev.demoapp:counterMaxLength}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_counterOverflowTextAppearance ru.kazantsev.demoapp:counterOverflowTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_counterTextAppearance ru.kazantsev.demoapp:counterTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_errorEnabled ru.kazantsev.demoapp:errorEnabled}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_errorTextAppearance ru.kazantsev.demoapp:errorTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_hintAnimationEnabled ru.kazantsev.demoapp:hintAnimationEnabled}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_hintTextAppearance ru.kazantsev.demoapp:hintTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_counterEnabled ru.kazantsev.baseapp:counterEnabled}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_counterMaxLength ru.kazantsev.baseapp:counterMaxLength}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_counterOverflowTextAppearance ru.kazantsev.baseapp:counterOverflowTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_counterTextAppearance ru.kazantsev.baseapp:counterTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_errorEnabled ru.kazantsev.baseapp:errorEnabled}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_errorTextAppearance ru.kazantsev.baseapp:errorTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_hintAnimationEnabled ru.kazantsev.baseapp:hintAnimationEnabled}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_hintTextAppearance ru.kazantsev.baseapp:hintTextAppearance}</code></td><td></td></tr>
            </table>
            @see #TextInputLayout_android_hint
            @see #TextInputLayout_android_textColorHint
@@ -7902,7 +7902,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int TextInputLayout_android_textColorHint = 0;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#counterEnabled}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#counterEnabled}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
@@ -7912,11 +7912,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.kazantsev.demoapp:counterEnabled
+          @attr name ru.kazantsev.baseapp:counterEnabled
         */
         public static final int TextInputLayout_counterEnabled = 5;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#counterMaxLength}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#counterMaxLength}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
@@ -7926,31 +7926,31 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.kazantsev.demoapp:counterMaxLength
+          @attr name ru.kazantsev.baseapp:counterMaxLength
         */
         public static final int TextInputLayout_counterMaxLength = 6;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#counterOverflowTextAppearance}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#counterOverflowTextAppearance}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.kazantsev.demoapp:counterOverflowTextAppearance
+          @attr name ru.kazantsev.baseapp:counterOverflowTextAppearance
         */
         public static final int TextInputLayout_counterOverflowTextAppearance = 8;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#counterTextAppearance}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#counterTextAppearance}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.kazantsev.demoapp:counterTextAppearance
+          @attr name ru.kazantsev.baseapp:counterTextAppearance
         */
         public static final int TextInputLayout_counterTextAppearance = 7;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#errorEnabled}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#errorEnabled}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
@@ -7960,21 +7960,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.kazantsev.demoapp:errorEnabled
+          @attr name ru.kazantsev.baseapp:errorEnabled
         */
         public static final int TextInputLayout_errorEnabled = 3;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#errorTextAppearance}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#errorTextAppearance}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.kazantsev.demoapp:errorTextAppearance
+          @attr name ru.kazantsev.baseapp:errorTextAppearance
         */
         public static final int TextInputLayout_errorTextAppearance = 4;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#hintAnimationEnabled}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#hintAnimationEnabled}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
@@ -7984,17 +7984,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.kazantsev.demoapp:hintAnimationEnabled
+          @attr name ru.kazantsev.baseapp:hintAnimationEnabled
         */
         public static final int TextInputLayout_hintAnimationEnabled = 9;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#hintTextAppearance}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#hintTextAppearance}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.kazantsev.demoapp:hintTextAppearance
+          @attr name ru.kazantsev.baseapp:hintTextAppearance
         */
         public static final int TextInputLayout_hintTextAppearance = 2;
         /** Attributes that can be used with a Theme.
@@ -8003,116 +8003,116 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #Theme_actionBarDivider ru.kazantsev.demoapp:actionBarDivider}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionBarItemBackground ru.kazantsev.demoapp:actionBarItemBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionBarPopupTheme ru.kazantsev.demoapp:actionBarPopupTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionBarSize ru.kazantsev.demoapp:actionBarSize}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionBarSplitStyle ru.kazantsev.demoapp:actionBarSplitStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionBarStyle ru.kazantsev.demoapp:actionBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionBarTabBarStyle ru.kazantsev.demoapp:actionBarTabBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionBarTabStyle ru.kazantsev.demoapp:actionBarTabStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionBarTabTextStyle ru.kazantsev.demoapp:actionBarTabTextStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionBarTheme ru.kazantsev.demoapp:actionBarTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionBarWidgetTheme ru.kazantsev.demoapp:actionBarWidgetTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionButtonStyle ru.kazantsev.demoapp:actionButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionDropDownStyle ru.kazantsev.demoapp:actionDropDownStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionMenuTextAppearance ru.kazantsev.demoapp:actionMenuTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionMenuTextColor ru.kazantsev.demoapp:actionMenuTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModeBackground ru.kazantsev.demoapp:actionModeBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModeCloseButtonStyle ru.kazantsev.demoapp:actionModeCloseButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModeCloseDrawable ru.kazantsev.demoapp:actionModeCloseDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModeCopyDrawable ru.kazantsev.demoapp:actionModeCopyDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModeCutDrawable ru.kazantsev.demoapp:actionModeCutDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModeFindDrawable ru.kazantsev.demoapp:actionModeFindDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModePasteDrawable ru.kazantsev.demoapp:actionModePasteDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModePopupWindowStyle ru.kazantsev.demoapp:actionModePopupWindowStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModeSelectAllDrawable ru.kazantsev.demoapp:actionModeSelectAllDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModeShareDrawable ru.kazantsev.demoapp:actionModeShareDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModeSplitBackground ru.kazantsev.demoapp:actionModeSplitBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModeStyle ru.kazantsev.demoapp:actionModeStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModeWebSearchDrawable ru.kazantsev.demoapp:actionModeWebSearchDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionOverflowButtonStyle ru.kazantsev.demoapp:actionOverflowButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionOverflowMenuStyle ru.kazantsev.demoapp:actionOverflowMenuStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_activityChooserViewStyle ru.kazantsev.demoapp:activityChooserViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_alertDialogButtonGroupStyle ru.kazantsev.demoapp:alertDialogButtonGroupStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_alertDialogCenterButtons ru.kazantsev.demoapp:alertDialogCenterButtons}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_alertDialogStyle ru.kazantsev.demoapp:alertDialogStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_alertDialogTheme ru.kazantsev.demoapp:alertDialogTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionBarDivider ru.kazantsev.baseapp:actionBarDivider}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionBarItemBackground ru.kazantsev.baseapp:actionBarItemBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionBarPopupTheme ru.kazantsev.baseapp:actionBarPopupTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionBarSize ru.kazantsev.baseapp:actionBarSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionBarSplitStyle ru.kazantsev.baseapp:actionBarSplitStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionBarStyle ru.kazantsev.baseapp:actionBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionBarTabBarStyle ru.kazantsev.baseapp:actionBarTabBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionBarTabStyle ru.kazantsev.baseapp:actionBarTabStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionBarTabTextStyle ru.kazantsev.baseapp:actionBarTabTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionBarTheme ru.kazantsev.baseapp:actionBarTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionBarWidgetTheme ru.kazantsev.baseapp:actionBarWidgetTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionButtonStyle ru.kazantsev.baseapp:actionButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionDropDownStyle ru.kazantsev.baseapp:actionDropDownStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionMenuTextAppearance ru.kazantsev.baseapp:actionMenuTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionMenuTextColor ru.kazantsev.baseapp:actionMenuTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModeBackground ru.kazantsev.baseapp:actionModeBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModeCloseButtonStyle ru.kazantsev.baseapp:actionModeCloseButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModeCloseDrawable ru.kazantsev.baseapp:actionModeCloseDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModeCopyDrawable ru.kazantsev.baseapp:actionModeCopyDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModeCutDrawable ru.kazantsev.baseapp:actionModeCutDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModeFindDrawable ru.kazantsev.baseapp:actionModeFindDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModePasteDrawable ru.kazantsev.baseapp:actionModePasteDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModePopupWindowStyle ru.kazantsev.baseapp:actionModePopupWindowStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModeSelectAllDrawable ru.kazantsev.baseapp:actionModeSelectAllDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModeShareDrawable ru.kazantsev.baseapp:actionModeShareDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModeSplitBackground ru.kazantsev.baseapp:actionModeSplitBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModeStyle ru.kazantsev.baseapp:actionModeStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModeWebSearchDrawable ru.kazantsev.baseapp:actionModeWebSearchDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionOverflowButtonStyle ru.kazantsev.baseapp:actionOverflowButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionOverflowMenuStyle ru.kazantsev.baseapp:actionOverflowMenuStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_activityChooserViewStyle ru.kazantsev.baseapp:activityChooserViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_alertDialogButtonGroupStyle ru.kazantsev.baseapp:alertDialogButtonGroupStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_alertDialogCenterButtons ru.kazantsev.baseapp:alertDialogCenterButtons}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_alertDialogStyle ru.kazantsev.baseapp:alertDialogStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_alertDialogTheme ru.kazantsev.baseapp:alertDialogTheme}</code></td><td></td></tr>
            <tr><td><code>{@link #Theme_android_windowAnimationStyle android:windowAnimationStyle}</code></td><td></td></tr>
            <tr><td><code>{@link #Theme_android_windowIsFloating android:windowIsFloating}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_autoCompleteTextViewStyle ru.kazantsev.demoapp:autoCompleteTextViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_borderlessButtonStyle ru.kazantsev.demoapp:borderlessButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_buttonBarButtonStyle ru.kazantsev.demoapp:buttonBarButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_buttonBarNegativeButtonStyle ru.kazantsev.demoapp:buttonBarNegativeButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_buttonBarNeutralButtonStyle ru.kazantsev.demoapp:buttonBarNeutralButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_buttonBarPositiveButtonStyle ru.kazantsev.demoapp:buttonBarPositiveButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_buttonBarStyle ru.kazantsev.demoapp:buttonBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_buttonStyle ru.kazantsev.demoapp:buttonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_buttonStyleSmall ru.kazantsev.demoapp:buttonStyleSmall}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_checkboxStyle ru.kazantsev.demoapp:checkboxStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_checkedTextViewStyle ru.kazantsev.demoapp:checkedTextViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_colorAccent ru.kazantsev.demoapp:colorAccent}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_colorButtonNormal ru.kazantsev.demoapp:colorButtonNormal}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_colorControlActivated ru.kazantsev.demoapp:colorControlActivated}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_colorControlHighlight ru.kazantsev.demoapp:colorControlHighlight}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_colorControlNormal ru.kazantsev.demoapp:colorControlNormal}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_colorPrimary ru.kazantsev.demoapp:colorPrimary}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_colorPrimaryDark ru.kazantsev.demoapp:colorPrimaryDark}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_colorSwitchThumbNormal ru.kazantsev.demoapp:colorSwitchThumbNormal}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_controlBackground ru.kazantsev.demoapp:controlBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_dialogPreferredPadding ru.kazantsev.demoapp:dialogPreferredPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_dialogTheme ru.kazantsev.demoapp:dialogTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_dividerHorizontal ru.kazantsev.demoapp:dividerHorizontal}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_dividerVertical ru.kazantsev.demoapp:dividerVertical}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_dropDownListViewStyle ru.kazantsev.demoapp:dropDownListViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_dropdownListPreferredItemHeight ru.kazantsev.demoapp:dropdownListPreferredItemHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_editTextBackground ru.kazantsev.demoapp:editTextBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_editTextColor ru.kazantsev.demoapp:editTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_editTextStyle ru.kazantsev.demoapp:editTextStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_homeAsUpIndicator ru.kazantsev.demoapp:homeAsUpIndicator}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_imageButtonStyle ru.kazantsev.demoapp:imageButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_listChoiceBackgroundIndicator ru.kazantsev.demoapp:listChoiceBackgroundIndicator}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_listDividerAlertDialog ru.kazantsev.demoapp:listDividerAlertDialog}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_listPopupWindowStyle ru.kazantsev.demoapp:listPopupWindowStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_listPreferredItemHeight ru.kazantsev.demoapp:listPreferredItemHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_listPreferredItemHeightLarge ru.kazantsev.demoapp:listPreferredItemHeightLarge}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_listPreferredItemHeightSmall ru.kazantsev.demoapp:listPreferredItemHeightSmall}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_listPreferredItemPaddingLeft ru.kazantsev.demoapp:listPreferredItemPaddingLeft}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_listPreferredItemPaddingRight ru.kazantsev.demoapp:listPreferredItemPaddingRight}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_panelBackground ru.kazantsev.demoapp:panelBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_panelMenuListTheme ru.kazantsev.demoapp:panelMenuListTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_panelMenuListWidth ru.kazantsev.demoapp:panelMenuListWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_popupMenuStyle ru.kazantsev.demoapp:popupMenuStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_popupWindowStyle ru.kazantsev.demoapp:popupWindowStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_radioButtonStyle ru.kazantsev.demoapp:radioButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_ratingBarStyle ru.kazantsev.demoapp:ratingBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_searchViewStyle ru.kazantsev.demoapp:searchViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_seekBarStyle ru.kazantsev.demoapp:seekBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_selectableItemBackground ru.kazantsev.demoapp:selectableItemBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_selectableItemBackgroundBorderless ru.kazantsev.demoapp:selectableItemBackgroundBorderless}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_spinnerDropDownItemStyle ru.kazantsev.demoapp:spinnerDropDownItemStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_spinnerStyle ru.kazantsev.demoapp:spinnerStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_switchStyle ru.kazantsev.demoapp:switchStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_textAppearanceLargePopupMenu ru.kazantsev.demoapp:textAppearanceLargePopupMenu}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_textAppearanceListItem ru.kazantsev.demoapp:textAppearanceListItem}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_textAppearanceListItemSmall ru.kazantsev.demoapp:textAppearanceListItemSmall}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_textAppearanceSearchResultSubtitle ru.kazantsev.demoapp:textAppearanceSearchResultSubtitle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_textAppearanceSearchResultTitle ru.kazantsev.demoapp:textAppearanceSearchResultTitle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_textAppearanceSmallPopupMenu ru.kazantsev.demoapp:textAppearanceSmallPopupMenu}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_textColorAlertDialogListItem ru.kazantsev.demoapp:textColorAlertDialogListItem}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_textColorSearchUrl ru.kazantsev.demoapp:textColorSearchUrl}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_toolbarNavigationButtonStyle ru.kazantsev.demoapp:toolbarNavigationButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_toolbarStyle ru.kazantsev.demoapp:toolbarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_windowActionBar ru.kazantsev.demoapp:windowActionBar}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_windowActionBarOverlay ru.kazantsev.demoapp:windowActionBarOverlay}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_windowActionModeOverlay ru.kazantsev.demoapp:windowActionModeOverlay}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_windowFixedHeightMajor ru.kazantsev.demoapp:windowFixedHeightMajor}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_windowFixedHeightMinor ru.kazantsev.demoapp:windowFixedHeightMinor}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_windowFixedWidthMajor ru.kazantsev.demoapp:windowFixedWidthMajor}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_windowFixedWidthMinor ru.kazantsev.demoapp:windowFixedWidthMinor}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_windowMinWidthMajor ru.kazantsev.demoapp:windowMinWidthMajor}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_windowMinWidthMinor ru.kazantsev.demoapp:windowMinWidthMinor}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_windowNoTitle ru.kazantsev.demoapp:windowNoTitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_autoCompleteTextViewStyle ru.kazantsev.baseapp:autoCompleteTextViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_borderlessButtonStyle ru.kazantsev.baseapp:borderlessButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_buttonBarButtonStyle ru.kazantsev.baseapp:buttonBarButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_buttonBarNegativeButtonStyle ru.kazantsev.baseapp:buttonBarNegativeButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_buttonBarNeutralButtonStyle ru.kazantsev.baseapp:buttonBarNeutralButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_buttonBarPositiveButtonStyle ru.kazantsev.baseapp:buttonBarPositiveButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_buttonBarStyle ru.kazantsev.baseapp:buttonBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_buttonStyle ru.kazantsev.baseapp:buttonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_buttonStyleSmall ru.kazantsev.baseapp:buttonStyleSmall}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_checkboxStyle ru.kazantsev.baseapp:checkboxStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_checkedTextViewStyle ru.kazantsev.baseapp:checkedTextViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_colorAccent ru.kazantsev.baseapp:colorAccent}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_colorButtonNormal ru.kazantsev.baseapp:colorButtonNormal}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_colorControlActivated ru.kazantsev.baseapp:colorControlActivated}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_colorControlHighlight ru.kazantsev.baseapp:colorControlHighlight}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_colorControlNormal ru.kazantsev.baseapp:colorControlNormal}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_colorPrimary ru.kazantsev.baseapp:colorPrimary}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_colorPrimaryDark ru.kazantsev.baseapp:colorPrimaryDark}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_colorSwitchThumbNormal ru.kazantsev.baseapp:colorSwitchThumbNormal}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_controlBackground ru.kazantsev.baseapp:controlBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_dialogPreferredPadding ru.kazantsev.baseapp:dialogPreferredPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_dialogTheme ru.kazantsev.baseapp:dialogTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_dividerHorizontal ru.kazantsev.baseapp:dividerHorizontal}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_dividerVertical ru.kazantsev.baseapp:dividerVertical}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_dropDownListViewStyle ru.kazantsev.baseapp:dropDownListViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_dropdownListPreferredItemHeight ru.kazantsev.baseapp:dropdownListPreferredItemHeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_editTextBackground ru.kazantsev.baseapp:editTextBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_editTextColor ru.kazantsev.baseapp:editTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_editTextStyle ru.kazantsev.baseapp:editTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_homeAsUpIndicator ru.kazantsev.baseapp:homeAsUpIndicator}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_imageButtonStyle ru.kazantsev.baseapp:imageButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_listChoiceBackgroundIndicator ru.kazantsev.baseapp:listChoiceBackgroundIndicator}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_listDividerAlertDialog ru.kazantsev.baseapp:listDividerAlertDialog}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_listPopupWindowStyle ru.kazantsev.baseapp:listPopupWindowStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_listPreferredItemHeight ru.kazantsev.baseapp:listPreferredItemHeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_listPreferredItemHeightLarge ru.kazantsev.baseapp:listPreferredItemHeightLarge}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_listPreferredItemHeightSmall ru.kazantsev.baseapp:listPreferredItemHeightSmall}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_listPreferredItemPaddingLeft ru.kazantsev.baseapp:listPreferredItemPaddingLeft}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_listPreferredItemPaddingRight ru.kazantsev.baseapp:listPreferredItemPaddingRight}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_panelBackground ru.kazantsev.baseapp:panelBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_panelMenuListTheme ru.kazantsev.baseapp:panelMenuListTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_panelMenuListWidth ru.kazantsev.baseapp:panelMenuListWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_popupMenuStyle ru.kazantsev.baseapp:popupMenuStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_popupWindowStyle ru.kazantsev.baseapp:popupWindowStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_radioButtonStyle ru.kazantsev.baseapp:radioButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_ratingBarStyle ru.kazantsev.baseapp:ratingBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_searchViewStyle ru.kazantsev.baseapp:searchViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_seekBarStyle ru.kazantsev.baseapp:seekBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_selectableItemBackground ru.kazantsev.baseapp:selectableItemBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_selectableItemBackgroundBorderless ru.kazantsev.baseapp:selectableItemBackgroundBorderless}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_spinnerDropDownItemStyle ru.kazantsev.baseapp:spinnerDropDownItemStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_spinnerStyle ru.kazantsev.baseapp:spinnerStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_switchStyle ru.kazantsev.baseapp:switchStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_textAppearanceLargePopupMenu ru.kazantsev.baseapp:textAppearanceLargePopupMenu}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_textAppearanceListItem ru.kazantsev.baseapp:textAppearanceListItem}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_textAppearanceListItemSmall ru.kazantsev.baseapp:textAppearanceListItemSmall}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_textAppearanceSearchResultSubtitle ru.kazantsev.baseapp:textAppearanceSearchResultSubtitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_textAppearanceSearchResultTitle ru.kazantsev.baseapp:textAppearanceSearchResultTitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_textAppearanceSmallPopupMenu ru.kazantsev.baseapp:textAppearanceSmallPopupMenu}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_textColorAlertDialogListItem ru.kazantsev.baseapp:textColorAlertDialogListItem}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_textColorSearchUrl ru.kazantsev.baseapp:textColorSearchUrl}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_toolbarNavigationButtonStyle ru.kazantsev.baseapp:toolbarNavigationButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_toolbarStyle ru.kazantsev.baseapp:toolbarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_windowActionBar ru.kazantsev.baseapp:windowActionBar}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_windowActionBarOverlay ru.kazantsev.baseapp:windowActionBarOverlay}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_windowActionModeOverlay ru.kazantsev.baseapp:windowActionModeOverlay}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_windowFixedHeightMajor ru.kazantsev.baseapp:windowFixedHeightMajor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_windowFixedHeightMinor ru.kazantsev.baseapp:windowFixedHeightMinor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_windowFixedWidthMajor ru.kazantsev.baseapp:windowFixedWidthMajor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_windowFixedWidthMinor ru.kazantsev.baseapp:windowFixedWidthMinor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_windowMinWidthMajor ru.kazantsev.baseapp:windowMinWidthMajor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_windowMinWidthMinor ru.kazantsev.baseapp:windowMinWidthMinor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_windowNoTitle ru.kazantsev.baseapp:windowNoTitle}</code></td><td></td></tr>
            </table>
            @see #Theme_actionBarDivider
            @see #Theme_actionBarItemBackground
@@ -8256,37 +8256,37 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f01012c, 0x7f01012d
         };
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#actionBarDivider}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#actionBarDivider}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.kazantsev.demoapp:actionBarDivider
+          @attr name ru.kazantsev.baseapp:actionBarDivider
         */
         public static final int Theme_actionBarDivider = 23;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#actionBarItemBackground}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#actionBarItemBackground}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.kazantsev.demoapp:actionBarItemBackground
+          @attr name ru.kazantsev.baseapp:actionBarItemBackground
         */
         public static final int Theme_actionBarItemBackground = 24;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#actionBarPopupTheme}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#actionBarPopupTheme}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.kazantsev.demoapp:actionBarPopupTheme
+          @attr name ru.kazantsev.baseapp:actionBarPopupTheme
         */
         public static final int Theme_actionBarPopupTheme = 17;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#actionBarSize}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#actionBarSize}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -8306,111 +8306,111 @@ containing a value of this type.
 <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
 <tr><td><code>wrap_content</code></td><td>0</td><td></td></tr>
 </table>
-          @attr name ru.kazantsev.demoapp:actionBarSize
+          @attr name ru.kazantsev.baseapp:actionBarSize
         */
         public static final int Theme_actionBarSize = 22;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#actionBarSplitStyle}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#actionBarSplitStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.kazantsev.demoapp:actionBarSplitStyle
+          @attr name ru.kazantsev.baseapp:actionBarSplitStyle
         */
         public static final int Theme_actionBarSplitStyle = 19;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#actionBarStyle}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#actionBarStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.kazantsev.demoapp:actionBarStyle
+          @attr name ru.kazantsev.baseapp:actionBarStyle
         */
         public static final int Theme_actionBarStyle = 18;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#actionBarTabBarStyle}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#actionBarTabBarStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.kazantsev.demoapp:actionBarTabBarStyle
+          @attr name ru.kazantsev.baseapp:actionBarTabBarStyle
         */
         public static final int Theme_actionBarTabBarStyle = 13;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#actionBarTabStyle}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#actionBarTabStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.kazantsev.demoapp:actionBarTabStyle
+          @attr name ru.kazantsev.baseapp:actionBarTabStyle
         */
         public static final int Theme_actionBarTabStyle = 12;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#actionBarTabTextStyle}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#actionBarTabTextStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.kazantsev.demoapp:actionBarTabTextStyle
+          @attr name ru.kazantsev.baseapp:actionBarTabTextStyle
         */
         public static final int Theme_actionBarTabTextStyle = 14;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#actionBarTheme}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#actionBarTheme}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.kazantsev.demoapp:actionBarTheme
+          @attr name ru.kazantsev.baseapp:actionBarTheme
         */
         public static final int Theme_actionBarTheme = 20;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#actionBarWidgetTheme}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#actionBarWidgetTheme}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.kazantsev.demoapp:actionBarWidgetTheme
+          @attr name ru.kazantsev.baseapp:actionBarWidgetTheme
         */
         public static final int Theme_actionBarWidgetTheme = 21;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#actionButtonStyle}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#actionButtonStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.kazantsev.demoapp:actionButtonStyle
+          @attr name ru.kazantsev.baseapp:actionButtonStyle
         */
         public static final int Theme_actionButtonStyle = 49;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#actionDropDownStyle}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#actionDropDownStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.kazantsev.demoapp:actionDropDownStyle
+          @attr name ru.kazantsev.baseapp:actionDropDownStyle
         */
         public static final int Theme_actionDropDownStyle = 45;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#actionMenuTextAppearance}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#actionMenuTextAppearance}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.kazantsev.demoapp:actionMenuTextAppearance
+          @attr name ru.kazantsev.baseapp:actionMenuTextAppearance
         */
         public static final int Theme_actionMenuTextAppearance = 25;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#actionMenuTextColor}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#actionMenuTextColor}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -8418,181 +8418,181 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name ru.kazantsev.demoapp:actionMenuTextColor
+          @attr name ru.kazantsev.baseapp:actionMenuTextColor
         */
         public static final int Theme_actionMenuTextColor = 26;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#actionModeBackground}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#actionModeBackground}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.kazantsev.demoapp:actionModeBackground
+          @attr name ru.kazantsev.baseapp:actionModeBackground
         */
         public static final int Theme_actionModeBackground = 29;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#actionModeCloseButtonStyle}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#actionModeCloseButtonStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.kazantsev.demoapp:actionModeCloseButtonStyle
+          @attr name ru.kazantsev.baseapp:actionModeCloseButtonStyle
         */
         public static final int Theme_actionModeCloseButtonStyle = 28;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#actionModeCloseDrawable}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#actionModeCloseDrawable}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.kazantsev.demoapp:actionModeCloseDrawable
+          @attr name ru.kazantsev.baseapp:actionModeCloseDrawable
         */
         public static final int Theme_actionModeCloseDrawable = 31;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#actionModeCopyDrawable}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#actionModeCopyDrawable}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.kazantsev.demoapp:actionModeCopyDrawable
+          @attr name ru.kazantsev.baseapp:actionModeCopyDrawable
         */
         public static final int Theme_actionModeCopyDrawable = 33;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#actionModeCutDrawable}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#actionModeCutDrawable}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.kazantsev.demoapp:actionModeCutDrawable
+          @attr name ru.kazantsev.baseapp:actionModeCutDrawable
         */
         public static final int Theme_actionModeCutDrawable = 32;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#actionModeFindDrawable}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#actionModeFindDrawable}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.kazantsev.demoapp:actionModeFindDrawable
+          @attr name ru.kazantsev.baseapp:actionModeFindDrawable
         */
         public static final int Theme_actionModeFindDrawable = 37;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#actionModePasteDrawable}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#actionModePasteDrawable}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.kazantsev.demoapp:actionModePasteDrawable
+          @attr name ru.kazantsev.baseapp:actionModePasteDrawable
         */
         public static final int Theme_actionModePasteDrawable = 34;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#actionModePopupWindowStyle}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#actionModePopupWindowStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.kazantsev.demoapp:actionModePopupWindowStyle
+          @attr name ru.kazantsev.baseapp:actionModePopupWindowStyle
         */
         public static final int Theme_actionModePopupWindowStyle = 39;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#actionModeSelectAllDrawable}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#actionModeSelectAllDrawable}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.kazantsev.demoapp:actionModeSelectAllDrawable
+          @attr name ru.kazantsev.baseapp:actionModeSelectAllDrawable
         */
         public static final int Theme_actionModeSelectAllDrawable = 35;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#actionModeShareDrawable}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#actionModeShareDrawable}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.kazantsev.demoapp:actionModeShareDrawable
+          @attr name ru.kazantsev.baseapp:actionModeShareDrawable
         */
         public static final int Theme_actionModeShareDrawable = 36;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#actionModeSplitBackground}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#actionModeSplitBackground}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.kazantsev.demoapp:actionModeSplitBackground
+          @attr name ru.kazantsev.baseapp:actionModeSplitBackground
         */
         public static final int Theme_actionModeSplitBackground = 30;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#actionModeStyle}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#actionModeStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.kazantsev.demoapp:actionModeStyle
+          @attr name ru.kazantsev.baseapp:actionModeStyle
         */
         public static final int Theme_actionModeStyle = 27;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#actionModeWebSearchDrawable}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#actionModeWebSearchDrawable}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.kazantsev.demoapp:actionModeWebSearchDrawable
+          @attr name ru.kazantsev.baseapp:actionModeWebSearchDrawable
         */
         public static final int Theme_actionModeWebSearchDrawable = 38;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#actionOverflowButtonStyle}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#actionOverflowButtonStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.kazantsev.demoapp:actionOverflowButtonStyle
+          @attr name ru.kazantsev.baseapp:actionOverflowButtonStyle
         */
         public static final int Theme_actionOverflowButtonStyle = 15;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#actionOverflowMenuStyle}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#actionOverflowMenuStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.kazantsev.demoapp:actionOverflowMenuStyle
+          @attr name ru.kazantsev.baseapp:actionOverflowMenuStyle
         */
         public static final int Theme_actionOverflowMenuStyle = 16;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#activityChooserViewStyle}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#activityChooserViewStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.kazantsev.demoapp:activityChooserViewStyle
+          @attr name ru.kazantsev.baseapp:activityChooserViewStyle
         */
         public static final int Theme_activityChooserViewStyle = 57;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#alertDialogButtonGroupStyle}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#alertDialogButtonGroupStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.kazantsev.demoapp:alertDialogButtonGroupStyle
+          @attr name ru.kazantsev.baseapp:alertDialogButtonGroupStyle
         */
         public static final int Theme_alertDialogButtonGroupStyle = 92;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#alertDialogCenterButtons}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#alertDialogCenterButtons}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -8602,27 +8602,27 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.kazantsev.demoapp:alertDialogCenterButtons
+          @attr name ru.kazantsev.baseapp:alertDialogCenterButtons
         */
         public static final int Theme_alertDialogCenterButtons = 93;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#alertDialogStyle}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#alertDialogStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.kazantsev.demoapp:alertDialogStyle
+          @attr name ru.kazantsev.baseapp:alertDialogStyle
         */
         public static final int Theme_alertDialogStyle = 91;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#alertDialogTheme}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#alertDialogTheme}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.kazantsev.demoapp:alertDialogTheme
+          @attr name ru.kazantsev.baseapp:alertDialogTheme
         */
         public static final int Theme_alertDialogTheme = 94;
         /**
@@ -8638,117 +8638,117 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int Theme_android_windowIsFloating = 0;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#autoCompleteTextViewStyle}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#autoCompleteTextViewStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.kazantsev.demoapp:autoCompleteTextViewStyle
+          @attr name ru.kazantsev.baseapp:autoCompleteTextViewStyle
         */
         public static final int Theme_autoCompleteTextViewStyle = 99;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#borderlessButtonStyle}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#borderlessButtonStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.kazantsev.demoapp:borderlessButtonStyle
+          @attr name ru.kazantsev.baseapp:borderlessButtonStyle
         */
         public static final int Theme_borderlessButtonStyle = 54;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#buttonBarButtonStyle}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#buttonBarButtonStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.kazantsev.demoapp:buttonBarButtonStyle
+          @attr name ru.kazantsev.baseapp:buttonBarButtonStyle
         */
         public static final int Theme_buttonBarButtonStyle = 51;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#buttonBarNegativeButtonStyle}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#buttonBarNegativeButtonStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.kazantsev.demoapp:buttonBarNegativeButtonStyle
+          @attr name ru.kazantsev.baseapp:buttonBarNegativeButtonStyle
         */
         public static final int Theme_buttonBarNegativeButtonStyle = 97;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#buttonBarNeutralButtonStyle}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#buttonBarNeutralButtonStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.kazantsev.demoapp:buttonBarNeutralButtonStyle
+          @attr name ru.kazantsev.baseapp:buttonBarNeutralButtonStyle
         */
         public static final int Theme_buttonBarNeutralButtonStyle = 98;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#buttonBarPositiveButtonStyle}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#buttonBarPositiveButtonStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.kazantsev.demoapp:buttonBarPositiveButtonStyle
+          @attr name ru.kazantsev.baseapp:buttonBarPositiveButtonStyle
         */
         public static final int Theme_buttonBarPositiveButtonStyle = 96;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#buttonBarStyle}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#buttonBarStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.kazantsev.demoapp:buttonBarStyle
+          @attr name ru.kazantsev.baseapp:buttonBarStyle
         */
         public static final int Theme_buttonBarStyle = 50;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#buttonStyle}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#buttonStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.kazantsev.demoapp:buttonStyle
+          @attr name ru.kazantsev.baseapp:buttonStyle
         */
         public static final int Theme_buttonStyle = 100;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#buttonStyleSmall}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#buttonStyleSmall}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.kazantsev.demoapp:buttonStyleSmall
+          @attr name ru.kazantsev.baseapp:buttonStyleSmall
         */
         public static final int Theme_buttonStyleSmall = 101;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#checkboxStyle}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#checkboxStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.kazantsev.demoapp:checkboxStyle
+          @attr name ru.kazantsev.baseapp:checkboxStyle
         */
         public static final int Theme_checkboxStyle = 102;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#checkedTextViewStyle}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#checkedTextViewStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.kazantsev.demoapp:checkedTextViewStyle
+          @attr name ru.kazantsev.baseapp:checkedTextViewStyle
         */
         public static final int Theme_checkedTextViewStyle = 103;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#colorAccent}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#colorAccent}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -8759,11 +8759,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.kazantsev.demoapp:colorAccent
+          @attr name ru.kazantsev.baseapp:colorAccent
         */
         public static final int Theme_colorAccent = 84;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#colorButtonNormal}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#colorButtonNormal}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -8774,11 +8774,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.kazantsev.demoapp:colorButtonNormal
+          @attr name ru.kazantsev.baseapp:colorButtonNormal
         */
         public static final int Theme_colorButtonNormal = 88;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#colorControlActivated}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#colorControlActivated}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -8789,11 +8789,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.kazantsev.demoapp:colorControlActivated
+          @attr name ru.kazantsev.baseapp:colorControlActivated
         */
         public static final int Theme_colorControlActivated = 86;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#colorControlHighlight}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#colorControlHighlight}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -8804,11 +8804,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.kazantsev.demoapp:colorControlHighlight
+          @attr name ru.kazantsev.baseapp:colorControlHighlight
         */
         public static final int Theme_colorControlHighlight = 87;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#colorControlNormal}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#colorControlNormal}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -8819,11 +8819,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.kazantsev.demoapp:colorControlNormal
+          @attr name ru.kazantsev.baseapp:colorControlNormal
         */
         public static final int Theme_colorControlNormal = 85;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#colorPrimary}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#colorPrimary}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -8834,11 +8834,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.kazantsev.demoapp:colorPrimary
+          @attr name ru.kazantsev.baseapp:colorPrimary
         */
         public static final int Theme_colorPrimary = 82;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#colorPrimaryDark}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#colorPrimaryDark}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -8849,11 +8849,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.kazantsev.demoapp:colorPrimaryDark
+          @attr name ru.kazantsev.baseapp:colorPrimaryDark
         */
         public static final int Theme_colorPrimaryDark = 83;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#colorSwitchThumbNormal}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#colorSwitchThumbNormal}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -8864,21 +8864,21 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.kazantsev.demoapp:colorSwitchThumbNormal
+          @attr name ru.kazantsev.baseapp:colorSwitchThumbNormal
         */
         public static final int Theme_colorSwitchThumbNormal = 89;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#controlBackground}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#controlBackground}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.kazantsev.demoapp:controlBackground
+          @attr name ru.kazantsev.baseapp:controlBackground
         */
         public static final int Theme_controlBackground = 90;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#dialogPreferredPadding}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#dialogPreferredPadding}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -8890,51 +8890,51 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.kazantsev.demoapp:dialogPreferredPadding
+          @attr name ru.kazantsev.baseapp:dialogPreferredPadding
         */
         public static final int Theme_dialogPreferredPadding = 43;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#dialogTheme}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#dialogTheme}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.kazantsev.demoapp:dialogTheme
+          @attr name ru.kazantsev.baseapp:dialogTheme
         */
         public static final int Theme_dialogTheme = 42;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#dividerHorizontal}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#dividerHorizontal}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.kazantsev.demoapp:dividerHorizontal
+          @attr name ru.kazantsev.baseapp:dividerHorizontal
         */
         public static final int Theme_dividerHorizontal = 56;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#dividerVertical}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#dividerVertical}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.kazantsev.demoapp:dividerVertical
+          @attr name ru.kazantsev.baseapp:dividerVertical
         */
         public static final int Theme_dividerVertical = 55;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#dropDownListViewStyle}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#dropDownListViewStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.kazantsev.demoapp:dropDownListViewStyle
+          @attr name ru.kazantsev.baseapp:dropDownListViewStyle
         */
         public static final int Theme_dropDownListViewStyle = 74;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#dropdownListPreferredItemHeight}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#dropdownListPreferredItemHeight}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -8946,21 +8946,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.kazantsev.demoapp:dropdownListPreferredItemHeight
+          @attr name ru.kazantsev.baseapp:dropdownListPreferredItemHeight
         */
         public static final int Theme_dropdownListPreferredItemHeight = 46;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#editTextBackground}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#editTextBackground}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.kazantsev.demoapp:editTextBackground
+          @attr name ru.kazantsev.baseapp:editTextBackground
         */
         public static final int Theme_editTextBackground = 63;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#editTextColor}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#editTextColor}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -8968,71 +8968,71 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name ru.kazantsev.demoapp:editTextColor
+          @attr name ru.kazantsev.baseapp:editTextColor
         */
         public static final int Theme_editTextColor = 62;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#editTextStyle}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#editTextStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.kazantsev.demoapp:editTextStyle
+          @attr name ru.kazantsev.baseapp:editTextStyle
         */
         public static final int Theme_editTextStyle = 104;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#homeAsUpIndicator}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#homeAsUpIndicator}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.kazantsev.demoapp:homeAsUpIndicator
+          @attr name ru.kazantsev.baseapp:homeAsUpIndicator
         */
         public static final int Theme_homeAsUpIndicator = 48;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#imageButtonStyle}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#imageButtonStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.kazantsev.demoapp:imageButtonStyle
+          @attr name ru.kazantsev.baseapp:imageButtonStyle
         */
         public static final int Theme_imageButtonStyle = 64;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#listChoiceBackgroundIndicator}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#listChoiceBackgroundIndicator}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.kazantsev.demoapp:listChoiceBackgroundIndicator
+          @attr name ru.kazantsev.baseapp:listChoiceBackgroundIndicator
         */
         public static final int Theme_listChoiceBackgroundIndicator = 81;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#listDividerAlertDialog}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#listDividerAlertDialog}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.kazantsev.demoapp:listDividerAlertDialog
+          @attr name ru.kazantsev.baseapp:listDividerAlertDialog
         */
         public static final int Theme_listDividerAlertDialog = 44;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#listPopupWindowStyle}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#listPopupWindowStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.kazantsev.demoapp:listPopupWindowStyle
+          @attr name ru.kazantsev.baseapp:listPopupWindowStyle
         */
         public static final int Theme_listPopupWindowStyle = 75;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#listPreferredItemHeight}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#listPreferredItemHeight}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -9044,11 +9044,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.kazantsev.demoapp:listPreferredItemHeight
+          @attr name ru.kazantsev.baseapp:listPreferredItemHeight
         */
         public static final int Theme_listPreferredItemHeight = 69;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#listPreferredItemHeightLarge}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#listPreferredItemHeightLarge}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -9060,11 +9060,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.kazantsev.demoapp:listPreferredItemHeightLarge
+          @attr name ru.kazantsev.baseapp:listPreferredItemHeightLarge
         */
         public static final int Theme_listPreferredItemHeightLarge = 71;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#listPreferredItemHeightSmall}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#listPreferredItemHeightSmall}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -9076,11 +9076,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.kazantsev.demoapp:listPreferredItemHeightSmall
+          @attr name ru.kazantsev.baseapp:listPreferredItemHeightSmall
         */
         public static final int Theme_listPreferredItemHeightSmall = 70;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#listPreferredItemPaddingLeft}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#listPreferredItemPaddingLeft}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -9092,11 +9092,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.kazantsev.demoapp:listPreferredItemPaddingLeft
+          @attr name ru.kazantsev.baseapp:listPreferredItemPaddingLeft
         */
         public static final int Theme_listPreferredItemPaddingLeft = 72;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#listPreferredItemPaddingRight}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#listPreferredItemPaddingRight}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -9108,31 +9108,31 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.kazantsev.demoapp:listPreferredItemPaddingRight
+          @attr name ru.kazantsev.baseapp:listPreferredItemPaddingRight
         */
         public static final int Theme_listPreferredItemPaddingRight = 73;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#panelBackground}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#panelBackground}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.kazantsev.demoapp:panelBackground
+          @attr name ru.kazantsev.baseapp:panelBackground
         */
         public static final int Theme_panelBackground = 78;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#panelMenuListTheme}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#panelMenuListTheme}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.kazantsev.demoapp:panelMenuListTheme
+          @attr name ru.kazantsev.baseapp:panelMenuListTheme
         */
         public static final int Theme_panelMenuListTheme = 80;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#panelMenuListWidth}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#panelMenuListWidth}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -9144,181 +9144,181 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.kazantsev.demoapp:panelMenuListWidth
+          @attr name ru.kazantsev.baseapp:panelMenuListWidth
         */
         public static final int Theme_panelMenuListWidth = 79;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#popupMenuStyle}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#popupMenuStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.kazantsev.demoapp:popupMenuStyle
+          @attr name ru.kazantsev.baseapp:popupMenuStyle
         */
         public static final int Theme_popupMenuStyle = 60;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#popupWindowStyle}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#popupWindowStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.kazantsev.demoapp:popupWindowStyle
+          @attr name ru.kazantsev.baseapp:popupWindowStyle
         */
         public static final int Theme_popupWindowStyle = 61;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#radioButtonStyle}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#radioButtonStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.kazantsev.demoapp:radioButtonStyle
+          @attr name ru.kazantsev.baseapp:radioButtonStyle
         */
         public static final int Theme_radioButtonStyle = 105;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#ratingBarStyle}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#ratingBarStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.kazantsev.demoapp:ratingBarStyle
+          @attr name ru.kazantsev.baseapp:ratingBarStyle
         */
         public static final int Theme_ratingBarStyle = 106;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#searchViewStyle}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#searchViewStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.kazantsev.demoapp:searchViewStyle
+          @attr name ru.kazantsev.baseapp:searchViewStyle
         */
         public static final int Theme_searchViewStyle = 68;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#seekBarStyle}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#seekBarStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.kazantsev.demoapp:seekBarStyle
+          @attr name ru.kazantsev.baseapp:seekBarStyle
         */
         public static final int Theme_seekBarStyle = 107;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#selectableItemBackground}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#selectableItemBackground}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.kazantsev.demoapp:selectableItemBackground
+          @attr name ru.kazantsev.baseapp:selectableItemBackground
         */
         public static final int Theme_selectableItemBackground = 52;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#selectableItemBackgroundBorderless}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#selectableItemBackgroundBorderless}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.kazantsev.demoapp:selectableItemBackgroundBorderless
+          @attr name ru.kazantsev.baseapp:selectableItemBackgroundBorderless
         */
         public static final int Theme_selectableItemBackgroundBorderless = 53;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#spinnerDropDownItemStyle}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#spinnerDropDownItemStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.kazantsev.demoapp:spinnerDropDownItemStyle
+          @attr name ru.kazantsev.baseapp:spinnerDropDownItemStyle
         */
         public static final int Theme_spinnerDropDownItemStyle = 47;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#spinnerStyle}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#spinnerStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.kazantsev.demoapp:spinnerStyle
+          @attr name ru.kazantsev.baseapp:spinnerStyle
         */
         public static final int Theme_spinnerStyle = 108;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#switchStyle}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#switchStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.kazantsev.demoapp:switchStyle
+          @attr name ru.kazantsev.baseapp:switchStyle
         */
         public static final int Theme_switchStyle = 109;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#textAppearanceLargePopupMenu}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#textAppearanceLargePopupMenu}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.kazantsev.demoapp:textAppearanceLargePopupMenu
+          @attr name ru.kazantsev.baseapp:textAppearanceLargePopupMenu
         */
         public static final int Theme_textAppearanceLargePopupMenu = 40;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#textAppearanceListItem}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#textAppearanceListItem}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.kazantsev.demoapp:textAppearanceListItem
+          @attr name ru.kazantsev.baseapp:textAppearanceListItem
         */
         public static final int Theme_textAppearanceListItem = 76;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#textAppearanceListItemSmall}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#textAppearanceListItemSmall}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.kazantsev.demoapp:textAppearanceListItemSmall
+          @attr name ru.kazantsev.baseapp:textAppearanceListItemSmall
         */
         public static final int Theme_textAppearanceListItemSmall = 77;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#textAppearanceSearchResultSubtitle}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#textAppearanceSearchResultSubtitle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.kazantsev.demoapp:textAppearanceSearchResultSubtitle
+          @attr name ru.kazantsev.baseapp:textAppearanceSearchResultSubtitle
         */
         public static final int Theme_textAppearanceSearchResultSubtitle = 66;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#textAppearanceSearchResultTitle}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#textAppearanceSearchResultTitle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.kazantsev.demoapp:textAppearanceSearchResultTitle
+          @attr name ru.kazantsev.baseapp:textAppearanceSearchResultTitle
         */
         public static final int Theme_textAppearanceSearchResultTitle = 65;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#textAppearanceSmallPopupMenu}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#textAppearanceSmallPopupMenu}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.kazantsev.demoapp:textAppearanceSmallPopupMenu
+          @attr name ru.kazantsev.baseapp:textAppearanceSmallPopupMenu
         */
         public static final int Theme_textAppearanceSmallPopupMenu = 41;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#textColorAlertDialogListItem}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#textColorAlertDialogListItem}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -9326,11 +9326,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name ru.kazantsev.demoapp:textColorAlertDialogListItem
+          @attr name ru.kazantsev.baseapp:textColorAlertDialogListItem
         */
         public static final int Theme_textColorAlertDialogListItem = 95;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#textColorSearchUrl}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#textColorSearchUrl}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -9338,31 +9338,31 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name ru.kazantsev.demoapp:textColorSearchUrl
+          @attr name ru.kazantsev.baseapp:textColorSearchUrl
         */
         public static final int Theme_textColorSearchUrl = 67;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#toolbarNavigationButtonStyle}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#toolbarNavigationButtonStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.kazantsev.demoapp:toolbarNavigationButtonStyle
+          @attr name ru.kazantsev.baseapp:toolbarNavigationButtonStyle
         */
         public static final int Theme_toolbarNavigationButtonStyle = 59;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#toolbarStyle}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#toolbarStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.kazantsev.demoapp:toolbarStyle
+          @attr name ru.kazantsev.baseapp:toolbarStyle
         */
         public static final int Theme_toolbarStyle = 58;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#windowActionBar}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#windowActionBar}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -9372,11 +9372,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.kazantsev.demoapp:windowActionBar
+          @attr name ru.kazantsev.baseapp:windowActionBar
         */
         public static final int Theme_windowActionBar = 2;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#windowActionBarOverlay}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#windowActionBarOverlay}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -9386,11 +9386,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.kazantsev.demoapp:windowActionBarOverlay
+          @attr name ru.kazantsev.baseapp:windowActionBarOverlay
         */
         public static final int Theme_windowActionBarOverlay = 4;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#windowActionModeOverlay}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#windowActionModeOverlay}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -9400,11 +9400,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.kazantsev.demoapp:windowActionModeOverlay
+          @attr name ru.kazantsev.baseapp:windowActionModeOverlay
         */
         public static final int Theme_windowActionModeOverlay = 5;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#windowFixedHeightMajor}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#windowFixedHeightMajor}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -9419,11 +9419,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.kazantsev.demoapp:windowFixedHeightMajor
+          @attr name ru.kazantsev.baseapp:windowFixedHeightMajor
         */
         public static final int Theme_windowFixedHeightMajor = 9;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#windowFixedHeightMinor}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#windowFixedHeightMinor}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -9438,11 +9438,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.kazantsev.demoapp:windowFixedHeightMinor
+          @attr name ru.kazantsev.baseapp:windowFixedHeightMinor
         */
         public static final int Theme_windowFixedHeightMinor = 7;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#windowFixedWidthMajor}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#windowFixedWidthMajor}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -9457,11 +9457,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.kazantsev.demoapp:windowFixedWidthMajor
+          @attr name ru.kazantsev.baseapp:windowFixedWidthMajor
         */
         public static final int Theme_windowFixedWidthMajor = 6;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#windowFixedWidthMinor}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#windowFixedWidthMinor}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -9476,11 +9476,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.kazantsev.demoapp:windowFixedWidthMinor
+          @attr name ru.kazantsev.baseapp:windowFixedWidthMinor
         */
         public static final int Theme_windowFixedWidthMinor = 8;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#windowMinWidthMajor}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#windowMinWidthMajor}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -9495,11 +9495,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.kazantsev.demoapp:windowMinWidthMajor
+          @attr name ru.kazantsev.baseapp:windowMinWidthMajor
         */
         public static final int Theme_windowMinWidthMajor = 10;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#windowMinWidthMinor}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#windowMinWidthMinor}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -9514,11 +9514,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.kazantsev.demoapp:windowMinWidthMinor
+          @attr name ru.kazantsev.baseapp:windowMinWidthMinor
         */
         public static final int Theme_windowMinWidthMinor = 11;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#windowNoTitle}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#windowNoTitle}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -9528,7 +9528,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.kazantsev.demoapp:windowNoTitle
+          @attr name ru.kazantsev.baseapp:windowNoTitle
         */
         public static final int Theme_windowNoTitle = 3;
         /** Attributes that can be used with a Toolbar.
@@ -9539,29 +9539,29 @@ containing a value of this type.
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #Toolbar_android_gravity android:gravity}</code></td><td></td></tr>
            <tr><td><code>{@link #Toolbar_android_minHeight android:minHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_collapseContentDescription ru.kazantsev.demoapp:collapseContentDescription}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_collapseIcon ru.kazantsev.demoapp:collapseIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetEnd ru.kazantsev.demoapp:contentInsetEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetLeft ru.kazantsev.demoapp:contentInsetLeft}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetRight ru.kazantsev.demoapp:contentInsetRight}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetStart ru.kazantsev.demoapp:contentInsetStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_logo ru.kazantsev.demoapp:logo}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_logoDescription ru.kazantsev.demoapp:logoDescription}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_maxButtonHeight ru.kazantsev.demoapp:maxButtonHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_navigationContentDescription ru.kazantsev.demoapp:navigationContentDescription}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_navigationIcon ru.kazantsev.demoapp:navigationIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_popupTheme ru.kazantsev.demoapp:popupTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_subtitle ru.kazantsev.demoapp:subtitle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_subtitleTextAppearance ru.kazantsev.demoapp:subtitleTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_subtitleTextColor ru.kazantsev.demoapp:subtitleTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_title ru.kazantsev.demoapp:title}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMarginBottom ru.kazantsev.demoapp:titleMarginBottom}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMarginEnd ru.kazantsev.demoapp:titleMarginEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMarginStart ru.kazantsev.demoapp:titleMarginStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMarginTop ru.kazantsev.demoapp:titleMarginTop}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMargins ru.kazantsev.demoapp:titleMargins}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleTextAppearance ru.kazantsev.demoapp:titleTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleTextColor ru.kazantsev.demoapp:titleTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_collapseContentDescription ru.kazantsev.baseapp:collapseContentDescription}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_collapseIcon ru.kazantsev.baseapp:collapseIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetEnd ru.kazantsev.baseapp:contentInsetEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetLeft ru.kazantsev.baseapp:contentInsetLeft}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetRight ru.kazantsev.baseapp:contentInsetRight}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetStart ru.kazantsev.baseapp:contentInsetStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_logo ru.kazantsev.baseapp:logo}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_logoDescription ru.kazantsev.baseapp:logoDescription}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_maxButtonHeight ru.kazantsev.baseapp:maxButtonHeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_navigationContentDescription ru.kazantsev.baseapp:navigationContentDescription}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_navigationIcon ru.kazantsev.baseapp:navigationIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_popupTheme ru.kazantsev.baseapp:popupTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_subtitle ru.kazantsev.baseapp:subtitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_subtitleTextAppearance ru.kazantsev.baseapp:subtitleTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_subtitleTextColor ru.kazantsev.baseapp:subtitleTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_title ru.kazantsev.baseapp:title}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMarginBottom ru.kazantsev.baseapp:titleMarginBottom}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMarginEnd ru.kazantsev.baseapp:titleMarginEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMarginStart ru.kazantsev.baseapp:titleMarginStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMarginTop ru.kazantsev.baseapp:titleMarginTop}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMargins ru.kazantsev.baseapp:titleMargins}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleTextAppearance ru.kazantsev.baseapp:titleTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleTextColor ru.kazantsev.baseapp:titleTextColor}</code></td><td></td></tr>
            </table>
            @see #Toolbar_android_gravity
            @see #Toolbar_android_minHeight
@@ -9611,7 +9611,7 @@ containing a value of this type.
         */
         public static final int Toolbar_android_minHeight = 1;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#collapseContentDescription}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#collapseContentDescription}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -9621,21 +9621,21 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.kazantsev.demoapp:collapseContentDescription
+          @attr name ru.kazantsev.baseapp:collapseContentDescription
         */
         public static final int Toolbar_collapseContentDescription = 19;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#collapseIcon}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#collapseIcon}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.kazantsev.demoapp:collapseIcon
+          @attr name ru.kazantsev.baseapp:collapseIcon
         */
         public static final int Toolbar_collapseIcon = 18;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#contentInsetEnd}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#contentInsetEnd}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -9647,11 +9647,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.kazantsev.demoapp:contentInsetEnd
+          @attr name ru.kazantsev.baseapp:contentInsetEnd
         */
         public static final int Toolbar_contentInsetEnd = 6;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#contentInsetLeft}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#contentInsetLeft}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -9663,11 +9663,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.kazantsev.demoapp:contentInsetLeft
+          @attr name ru.kazantsev.baseapp:contentInsetLeft
         */
         public static final int Toolbar_contentInsetLeft = 7;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#contentInsetRight}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#contentInsetRight}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -9679,11 +9679,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.kazantsev.demoapp:contentInsetRight
+          @attr name ru.kazantsev.baseapp:contentInsetRight
         */
         public static final int Toolbar_contentInsetRight = 8;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#contentInsetStart}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#contentInsetStart}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -9695,21 +9695,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.kazantsev.demoapp:contentInsetStart
+          @attr name ru.kazantsev.baseapp:contentInsetStart
         */
         public static final int Toolbar_contentInsetStart = 5;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#logo}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#logo}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.kazantsev.demoapp:logo
+          @attr name ru.kazantsev.baseapp:logo
         */
         public static final int Toolbar_logo = 4;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#logoDescription}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#logoDescription}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -9719,11 +9719,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.kazantsev.demoapp:logoDescription
+          @attr name ru.kazantsev.baseapp:logoDescription
         */
         public static final int Toolbar_logoDescription = 22;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#maxButtonHeight}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#maxButtonHeight}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -9735,11 +9735,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.kazantsev.demoapp:maxButtonHeight
+          @attr name ru.kazantsev.baseapp:maxButtonHeight
         */
         public static final int Toolbar_maxButtonHeight = 17;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#navigationContentDescription}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#navigationContentDescription}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -9749,31 +9749,31 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.kazantsev.demoapp:navigationContentDescription
+          @attr name ru.kazantsev.baseapp:navigationContentDescription
         */
         public static final int Toolbar_navigationContentDescription = 21;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#navigationIcon}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#navigationIcon}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.kazantsev.demoapp:navigationIcon
+          @attr name ru.kazantsev.baseapp:navigationIcon
         */
         public static final int Toolbar_navigationIcon = 20;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#popupTheme}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#popupTheme}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.kazantsev.demoapp:popupTheme
+          @attr name ru.kazantsev.baseapp:popupTheme
         */
         public static final int Toolbar_popupTheme = 9;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#subtitle}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#subtitle}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -9783,21 +9783,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.kazantsev.demoapp:subtitle
+          @attr name ru.kazantsev.baseapp:subtitle
         */
         public static final int Toolbar_subtitle = 3;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#subtitleTextAppearance}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#subtitleTextAppearance}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.kazantsev.demoapp:subtitleTextAppearance
+          @attr name ru.kazantsev.baseapp:subtitleTextAppearance
         */
         public static final int Toolbar_subtitleTextAppearance = 11;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#subtitleTextColor}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#subtitleTextColor}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -9808,11 +9808,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.kazantsev.demoapp:subtitleTextColor
+          @attr name ru.kazantsev.baseapp:subtitleTextColor
         */
         public static final int Toolbar_subtitleTextColor = 24;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#title}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#title}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -9822,11 +9822,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.kazantsev.demoapp:title
+          @attr name ru.kazantsev.baseapp:title
         */
         public static final int Toolbar_title = 2;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#titleMarginBottom}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#titleMarginBottom}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -9838,11 +9838,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.kazantsev.demoapp:titleMarginBottom
+          @attr name ru.kazantsev.baseapp:titleMarginBottom
         */
         public static final int Toolbar_titleMarginBottom = 16;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#titleMarginEnd}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#titleMarginEnd}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -9854,11 +9854,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.kazantsev.demoapp:titleMarginEnd
+          @attr name ru.kazantsev.baseapp:titleMarginEnd
         */
         public static final int Toolbar_titleMarginEnd = 14;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#titleMarginStart}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#titleMarginStart}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -9870,11 +9870,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.kazantsev.demoapp:titleMarginStart
+          @attr name ru.kazantsev.baseapp:titleMarginStart
         */
         public static final int Toolbar_titleMarginStart = 13;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#titleMarginTop}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#titleMarginTop}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -9886,11 +9886,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.kazantsev.demoapp:titleMarginTop
+          @attr name ru.kazantsev.baseapp:titleMarginTop
         */
         public static final int Toolbar_titleMarginTop = 15;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#titleMargins}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#titleMargins}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -9902,21 +9902,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.kazantsev.demoapp:titleMargins
+          @attr name ru.kazantsev.baseapp:titleMargins
         */
         public static final int Toolbar_titleMargins = 12;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#titleTextAppearance}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#titleTextAppearance}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.kazantsev.demoapp:titleTextAppearance
+          @attr name ru.kazantsev.baseapp:titleTextAppearance
         */
         public static final int Toolbar_titleTextAppearance = 10;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#titleTextColor}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#titleTextColor}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -9927,7 +9927,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.kazantsev.demoapp:titleTextColor
+          @attr name ru.kazantsev.baseapp:titleTextColor
         */
         public static final int Toolbar_titleTextColor = 23;
         /** Attributes that can be used with a View.
@@ -9938,9 +9938,9 @@ containing a value of this type.
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #View_android_focusable android:focusable}</code></td><td></td></tr>
            <tr><td><code>{@link #View_android_theme android:theme}</code></td><td></td></tr>
-           <tr><td><code>{@link #View_paddingEnd ru.kazantsev.demoapp:paddingEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #View_paddingStart ru.kazantsev.demoapp:paddingStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #View_theme ru.kazantsev.demoapp:theme}</code></td><td></td></tr>
+           <tr><td><code>{@link #View_paddingEnd ru.kazantsev.baseapp:paddingEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #View_paddingStart ru.kazantsev.baseapp:paddingStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #View_theme ru.kazantsev.baseapp:theme}</code></td><td></td></tr>
            </table>
            @see #View_android_focusable
            @see #View_android_theme
@@ -9965,7 +9965,7 @@ containing a value of this type.
         */
         public static final int View_android_theme = 0;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#paddingEnd}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#paddingEnd}
           attribute's value can be found in the {@link #View} array.
 
 
@@ -9977,11 +9977,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.kazantsev.demoapp:paddingEnd
+          @attr name ru.kazantsev.baseapp:paddingEnd
         */
         public static final int View_paddingEnd = 3;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#paddingStart}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#paddingStart}
           attribute's value can be found in the {@link #View} array.
 
 
@@ -9993,17 +9993,17 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.kazantsev.demoapp:paddingStart
+          @attr name ru.kazantsev.baseapp:paddingStart
         */
         public static final int View_paddingStart = 2;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#theme}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#theme}
           attribute's value can be found in the {@link #View} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ru.kazantsev.demoapp:theme
+          @attr name ru.kazantsev.baseapp:theme
         */
         public static final int View_theme = 4;
         /** Attributes that can be used with a ViewBackgroundHelper.
@@ -10013,8 +10013,8 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #ViewBackgroundHelper_android_background android:background}</code></td><td></td></tr>
-           <tr><td><code>{@link #ViewBackgroundHelper_backgroundTint ru.kazantsev.demoapp:backgroundTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #ViewBackgroundHelper_backgroundTintMode ru.kazantsev.demoapp:backgroundTintMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #ViewBackgroundHelper_backgroundTint ru.kazantsev.baseapp:backgroundTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #ViewBackgroundHelper_backgroundTintMode ru.kazantsev.baseapp:backgroundTintMode}</code></td><td></td></tr>
            </table>
            @see #ViewBackgroundHelper_android_background
            @see #ViewBackgroundHelper_backgroundTint
@@ -10030,7 +10030,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int ViewBackgroundHelper_android_background = 0;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#backgroundTint}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#backgroundTint}
           attribute's value can be found in the {@link #ViewBackgroundHelper} array.
 
 
@@ -10041,11 +10041,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ru.kazantsev.demoapp:backgroundTint
+          @attr name ru.kazantsev.baseapp:backgroundTint
         */
         public static final int ViewBackgroundHelper_backgroundTint = 1;
         /**
-          <p>This symbol is the offset where the {@link ru.kazantsev.demoapp.R.attr#backgroundTintMode}
+          <p>This symbol is the offset where the {@link ru.kazantsev.baseapp.R.attr#backgroundTintMode}
           attribute's value can be found in the {@link #ViewBackgroundHelper} array.
 
 
@@ -10061,7 +10061,7 @@ containing a value of this type.
 <tr><td><code>multiply</code></td><td>14</td><td></td></tr>
 <tr><td><code>screen</code></td><td>15</td><td></td></tr>
 </table>
-          @attr name ru.kazantsev.demoapp:backgroundTintMode
+          @attr name ru.kazantsev.baseapp:backgroundTintMode
         */
         public static final int ViewBackgroundHelper_backgroundTintMode = 2;
         /** Attributes that can be used with a ViewStubCompat.

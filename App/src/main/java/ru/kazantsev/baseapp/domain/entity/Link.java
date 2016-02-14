@@ -35,5 +35,4 @@ public class Link implements Validatable, Linkable, Serializable {
     public boolean validate() {
         return link != null && title != null;
     }
-
 }
